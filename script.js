@@ -11,14 +11,38 @@ document.addEventListener('DOMContentLoaded', () => {
     const exampleButton = document.getElementById('example'); // Thêm nút Example
 
     let wordsList = [];
+    let shuffledIndices = [];
+    let currentIndex = 0;
 
     // Load words from JSON file
     fetch('wordslist.json')
         .then(response => response.json())
         .then(data => {
             wordsList = data;
-            loadRandomWord();
+            shuffleIndices();
+            loadWord();
         });
+
+    function shuffleIndices() {
+        shuffledIndices = Array.from(Array(wordsList.length).keys());
+        for (let i = shuffledIndices.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffledIndices[i], shuffledIndices[j]] = [shuffledIndices[j], shuffledIndices[i]];
+        }
+        currentIndex = 0;
+    }
+
+    function loadWord() {
+        if (currentIndex >= shuffledIndices.length) {
+            shuffleIndices();
+        }
+        const word = wordsList[shuffledIndices[currentIndex]];
+        vnField.value = word.vn;
+        typeField.value = word.type;
+        resizeTextarea(vnField);
+        resizeTextarea(enField);
+        currentIndex++;
+    }
 
     function resizeTextarea(textarea) {
         textarea.style.height = 'auto';
@@ -29,65 +53,5 @@ document.addEventListener('DOMContentLoaded', () => {
     vnField.addEventListener('input', () => resizeTextarea(vnField));
     enField.addEventListener('input', () => resizeTextarea(enField));
 
-    // Load a random word
-    function loadRandomWord() {
-        const randomIndex = Math.floor(Math.random() * wordsList.length);
-        const word = wordsList[randomIndex];
-        vnField.value = word.vn;
-        typeField.value = word.type;
-        resizeTextarea(vnField);
-        resizeTextarea(enField);
-    }
-
     // Submit button click event
     submitButton.addEventListener('click', () => {
-        const vnValue = vnField.value;
-        const enValue = enField.value.toLowerCase().trim();
-        const word = wordsList.find(w => w.vn === vnValue);
-
-        if (word && word.en.toLowerCase() === enValue) {
-            message.style.color = 'green';
-            message.innerHTML = `Correct! <br> IPA: ${word.ipa}`;
-            loadRandomWord();
-        } else {
-            message.style.color = 'red';
-            message.textContent = 'Incorrect, try again.';
-        }
-    });
-
-    // Hint button click event
-    hintButton.addEventListener('click', () => {
-        const vnValue = vnField.value;
-        const word = wordsList.find(w => w.vn === vnValue);
-        if (word) {
-            enField.value = word.en;
-            resizeTextarea(enField);
-        }
-    });
-
-    // Delete button click event
-    deleteButton.addEventListener('click', () => {
-        enField.value = '';
-        message.textContent = '';
-        exampleText.textContent = ''; // Clear the example text
-        resizeTextarea(enField);
-    });
-
-    // Next Question button click event
-    nextQuesButton.addEventListener('click', () => {
-        loadRandomWord();
-        enField.value = ''; // Clear the English input field
-        message.textContent = ''; // Clear the message
-        exampleText.textContent = ''; // Clear the example text
-        resizeTextarea(enField);
-    });
-
-    // Example button click event
-    exampleButton.addEventListener('click', () => {
-        const vnValue = vnField.value;
-        const word = wordsList.find(w => w.vn === vnValue);
-        if (word) {
-            exampleText.textContent = `Example: ${word.example}`;
-        }
-    });
-});
