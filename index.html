@@ -1,113 +1,36 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f4f8; /* Màu nền nhẹ */
-    color: #333333; /* Màu chữ đậm */
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    position: relative; /* Để định vị nút edit */
-    -webkit-overflow-scrolling: touch; /* Đảm bảo cuộn mượt mà trên iOS */
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Learning</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>V Learning</h1>
+        <div class="input-group">
+            <label for="vn">Vietnamese:</label>
+            <textarea id="vn" readonly></textarea>
+        </div>
+        <div class="input-group">
+            <label for="type">Type:</label>
+            <input type="text" id="type" readonly>
+        </div>
+        <div class="input-group">
+            <label for="en">English:</label>
+            <textarea id="en"></textarea>
+        </div>
+        <button id="submit">Submit</button>
+        <button id="goiy">Hint</button>
+        <button id="deleteA">Delete Answer</button>
+        <button id="nextQues">Next Question</button>
+        <button id="example">Example</button>
+        <p id="message"></p>
+        <p id="exampleText"></p> <!-- Thêm phần tử để hiển thị ví dụ -->
+        <p id="progress"></p> <!-- Thêm phần tử để hiển thị số từ đã học -->
+    </div>
 
-.container {
-    width: 100%;
-    max-width: 400px;
-    background-color: #ffffff; /* Màu nền trắng */
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước */
-}
-
-h1 {
-    margin-bottom: 20px;
-    color: #4CAF50; /* Màu xanh lá cây */
-}
-
-.input-group {
-    margin-bottom: 15px;
-    text-align: left;
-}
-
-label {
-    display: block;
-    margin-bottom: 5px;
-    color: #333333; /* Màu chữ đậm */
-}
-
-textarea, input {
-    width: calc(100% - 20px);
-    padding: 10px;
-    margin: 0 auto;
-    display: block;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-sizing: border-box;
-    resize: none;
-    background-color: #f9f9f9; /* Màu nền nhẹ cho input */
-    color: #333333; /* Màu chữ đậm */
-    font-size: 16px;
-}
-
-button {
-    width: 100%;
-    padding: 10px;
-    margin: 5px 0;
-    border: none;
-    border-radius: 5px;
-    background-color: #4CAF50; /* Màu xanh lá cây */
-    color: white;
-    cursor: pointer;
-    font-size: 16px;
-}
-
-button:hover {
-    background-color: #45a049; /* Màu xanh lá cây đậm hơn khi hover */
-}
-
-#message {
-    margin-top: 10px;
-    font-weight: bold;
-}
-
-textarea#vn, input#type {
-    background-color: #e9f5e9; /* Màu nền nhẹ xanh lá cây */
-    color: #333333; /* Màu chữ đậm */
-    font-size: 18px;
-}
-
-.edit-button {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background: none;
-    border: none;
-    cursor: pointer;
-}
-
-.edit-button img {
-    width: 24px;
-    height: 24px;
-}
-
-/* Đảm bảo container chiếm toàn bộ chiều cao màn hình */
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-.container {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-textarea, input, button {
-    max-width: 100%;
-}
+    <script src="script.js"></script>
+</body>
+</html>
