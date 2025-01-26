@@ -51,7 +51,7 @@
     {
         "vn": "Phát triển kỹ năng giao tiếp của tôi",
         "type": "verb phrase",
-        "en": "Foster my communication/computer/ listening skills",
+        "en": "Foster my communication skills",
         "ipa": "/ˈfɒstər maɪ kəˌmjuːnɪˈkeɪʃən skɪlz/",
         "example": ""
     },
@@ -65,7 +65,7 @@
     {
         "vn": "Tiết kiệm thời gian/tiết kiệm tiền mua những thứ cần thiết cho bản thân.",
         "type": "verb phrase",
-        "en": "Save time/ save money buy necessary things for myself",
+        "en": "Save time/save money buy necessary things for myself",
         "ipa": "/seɪv taɪm/seɪv ˈmʌni baɪ ˈnesəsəri θɪŋz fɔː maɪˈself/",
         "example": ""
     },
@@ -112,10 +112,10 @@
         "example": ""
     },
     {
-        "vn": "Phát triển kỹ năng sáng tạo của tôi/phát triển tính sáng tạo của tôi",
+        "vn": "Phát triển kỹ năng sáng tạo của tôi",
         "type": "verb phrase",
-        "en": "Develop my creative skills/develop my creativity",
-        "ipa": "/dɪˈveləp maɪ kriˈeɪtɪv skɪlz/ /dɪˈveləp maɪ kriːeɪˈtɪvəti/",
+        "en": "Develop my creative skills",
+        "ipa": "/dɪˈveləp maɪ kriˈeɪtɪv skɪlz/",
         "example": ""
     },
     {
@@ -198,7 +198,7 @@
     {
         "vn": "Làm tăng tinh thần",
         "type": "verb phrase",
-        "en": "Boost my mood/uplift my mood",
+        "en": "Boost my mood",
         "ipa": "/buːst/ /ʌpˈlɪft maɪ muːd/",
         "example": ""
     },
@@ -317,7 +317,7 @@
     {
         "vn": "Dành nhiều thời gian cho cái gì",
         "type": "verb phrase",
-        "en": "Spend much time on sth",
+        "en": "Spend much time on something",
         "ipa": "/spend mʌtʃ taɪm ɒn/",
         "example": ""
     },
@@ -350,7 +350,7 @@
         "example": ""
     },
      {
-        "vn": "Tôi vô vọng/khủng khiếp/tồi tệ ở điều gì đó",
+        "vn": "Tôi vô vọng/khủng khiếp ở điều gì đó",
         "type": "phrase",
         "en": "I'm hopeless/terrible at sth",
         "ipa": "/aɪm ˈhəʊpləs/ˈterəbl æt/",
@@ -401,21 +401,21 @@
     {
     "vn": "Ảnh hưởng tiêu cực đến cái gì (cuộc sống của mọi người)",
     "type": "phrase",
-    "en": "Negatively affect/ impact/ influence sth (people's lives)",
+    "en": "impact something (people's lives)",
     "ipa": "/ˈneɡətɪvli əˈfekt/ /ˈɪmpækt/ /ˈɪnfluːəns/ [sth (ˈpiːplz laɪvz)]",
     "example": "E.g., Excessive use of electronic devices can negatively affect people's sleep patterns. [Việc sử dụng quá mức các thiết bị điện tử có thể ảnh hưởng tiêu cực đến giấc ngủ của mọi người.]"
   },
   {
     "vn": "Ảnh hưởng đáng kể đến sức khỏe thể chất và tinh thần của mọi người",
     "type": "phrase",
-    "en": "Significantly influence/ affect/ impact people's physical and mental health",
+    "en": "impact people's physical and mental health",
     "ipa": "/sɪˈɡnɪfɪkəntli ˈɪnfluːəns/ əˈfekt/ ˈɪmpækt ˈpiːplz ˈfɪzɪkəl ənd ˈmentəl helθ/",
     "example": "E.g., Stress and anxiety can significantly influence people's physical and mental health. [Căng thẳng và lo âu có thể ảnh hưởng đáng kể đến sức khỏe thể chất và tinh thần của mọi người.]"
   },
   {
     "vn": "Dẫn đến tình trạng thiếu hụt cái gì",
     "type": "phrase",
-    "en": "Lead to a lack of sth",
+    "en": "Lead to a lack of something",
     "ipa": "/liːd tuː ə læk əv/",
     "example": "E.g., Lack of exercise can lead to a lack of physical fitness and overall well-being. [Thiếu tập thể dục có thể dẫn đến thiếu thể lực và sức khỏe tổng thể.]"
   },
