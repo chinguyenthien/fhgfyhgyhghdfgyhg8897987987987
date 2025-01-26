@@ -8,7 +8,6 @@ body {
     align-items: center;
     height: 100vh;
     position: relative; /* Để định vị nút edit */
-    -webkit-overflow-scrolling: touch; /* Đảm bảo cuộn mượt mà trên iOS */
 }
 
 .container {
@@ -19,7 +18,6 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước */
 }
 
 h1 {
@@ -89,25 +87,6 @@ textarea#vn, input#type {
 }
 
 .edit-button img {
-    width: 24px;
-    height: 24px;
-}
-
-/* Đảm bảo container chiếm toàn bộ chiều cao màn hình */
-html, body {
-    height: 80%;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-.container {
-    height: 90%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-textarea, input, button {
-    max-width: 100%;
+    width: 32px; /* Kích thước tối ưu cho biểu tượng */
+    height: 32px; /* Kích thước tối ưu cho biểu tượng */
 }
