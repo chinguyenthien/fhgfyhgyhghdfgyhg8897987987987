@@ -1,5 +1,352 @@
 [
-    {"vn": "Nghe và học từ kinh nghiệm và câu chuyện thực tế của họ", "type": "noun", "en": "Hear and learn from their experience and real-life stories", "ipa": "hɪr ənd lɜrn frəm ðɛr ɪkˈspɪriəns ənd riəl-laɪf ˈstɔriz"},
-    {"vn": "đi bộ", "type": "verb", "en": "walk", "ipa": "wɔk"},
-    {"vn": "đẹp", "type": "adjective", "en": "beautiful", "ipa": "ˈbjutəfəl"}
+    {
+        "vn": "Kết bạn nhiều người tốt",
+        "type": "verb phrase",
+        "en": "Make a lot of good friends",
+        "ipa": "/meɪk ə lɒt əv ɡʊd frɛndz/",
+        "example": ""
+    },
+    {
+        "vn": "Tạo những ký ức tốt với mọi người",
+        "type": "verb phrase",
+        "en": "Create good memories with people",
+        "ipa": "/kriˈeɪt ɡʊd ˈmeməriz wɪθ ˈpiːpl/",
+        "example": ""
+    },
+    {
+        "vn": "Mở rộng mạng xã hội",
+        "type": "verb phrase",
+        "en": "Expand social networking",
+        "ipa": "/ɪkˈspænd ˈsəʊʃəl ˈnetwɜːkɪŋ/",
+        "example": ""
+    },
+    {
+        "vn": "Cải thiện kỹ năng giao tiếp",
+        "type": "verb phrase",
+        "en": "Improve communication skills",
+        "ipa": "/ɪmˈpruːv kəˌmjuːnɪˈkeɪʃən skɪlz/",
+        "example": ""
+    },
+    {
+        "vn": "Giữ liên lạc với mọi người",
+        "type": "verb phrase",
+        "en": "Stay connected with people/keep in touch with people",
+        "ipa": "/steɪ kəˈnektɪd wɪθ ˈpiːpl/ /kiːp ɪn tʌtʃ wɪθ ˈpiːpl/",
+        "example": ""
+    },
+    {
+        "vn": "Tăng cường mối quan hệ bạn bè",
+        "type": "verb phrase",
+        "en": "Boost friend bonding",
+        "ipa": "/buːst frend ˈbɒndɪŋ/",
+        "example": ""
+    },
+    {
+        "vn": "Tự nhiên học thêm kiến thức",
+        "type": "verb phrase",
+        "en": "Acquire knowledge naturally",
+        "ipa": "/əˈkwaɪər ˈnɒlɪdʒ ˈnætʃrəli/",
+        "example": ""
+    },
+    {
+        "vn": "Phát triển kỹ năng giao tiếp của tôi",
+        "type": "verb phrase",
+        "en": "Foster my communication/computer/ listening skills",
+        "ipa": "/ˈfɒstər maɪ kəˌmjuːnɪˈkeɪʃən skɪlz/",
+        "example": ""
+    },
+    {
+        "vn": "Cảm thấy thoải mái và thư giãn - giảm căng thẳng và thư giãn.",
+        "type": "verb phrase",
+        "en": "Feel comfortable and relaxed - reduce stress and unwind",
+        "ipa": "/fiːl ˈkʌmfətəbl ənd rɪˈlækst - rɪˈdʒuːs stres ənd ʌnˈwaɪnd/",
+        "example": ""
+    },
+    {
+        "vn": "Tiết kiệm thời gian/tiết kiệm tiền mua những thứ cần thiết cho bản thân.",
+        "type": "verb phrase",
+        "en": "Save time/ save money buy necessary things for myself",
+        "ipa": "/seɪv taɪm/seɪv ˈmʌni baɪ ˈnesəsəri θɪŋz fɔː maɪˈself/",
+        "example": ""
+    },
+    {
+        "vn": "Gặp gỡ người mới và bạn mới",
+        "type": "verb phrase",
+        "en": "Meet new people and new friends",
+        "ipa": "/miːt njuː ˈpiːpl ənd njuː frendz/",
+        "example": ""
+    },
+    {
+        "vn": "Trở nên tự tin hơn và thân thiện hơn",
+        "type": "verb phrase",
+        "en": "Become more confident and socialized",
+        "ipa": "/bɪˈkʌm mɔːr ˈkɒnfɪdənt ənd ˈsəʊʃəlaɪzd/",
+        "example": ""
+    },
+    {
+        "vn": "Nghe và học từ kinh nghiệm và câu chuyện thực tế của họ",
+        "type": "verb phrase",
+        "en": "Hear and learn from their experience and real-life stories",
+        "ipa": "/hɪər ənd lɜːrn frəm ðer ɪkˈspɪriəns ənd riːl-laɪf ˈstɔːriz/",
+        "example": ""
+    },
+    {
+        "vn": "Trở thành phiên bản tốt hơn của bản thân",
+        "type": "verb phrase",
+        "en": "Become a better version of myself",
+        "ipa": "/bɪˈkʌm ə ˈbetər ˈvɜːrʒən əv maɪˈself/",
+        "example": ""
+    },
+    {
+        "vn": "Làm cho cuộc sống hàng ngày của chúng ta trở nên dễ dàng hơn và đa dạng hơn",
+        "type": "verb phrase",
+        "en": "Make our daily lives much less laborious and more colorful",
+        "ipa": "/meɪk ˈaʊər ˈdeɪli laɪvz mʌtʃ les ləˈbɔːriəs ənd mɔːr ˈkʌlərfəl/",
+        "example": ""
+    },
+    {
+        "vn": "Mở rộng tầm nhìn của tôi",
+        "type": "verb phrase",
+        "en": "Expand my horizons",
+        "ipa": "/ɪkˈspænd maɪ həˈraɪzənz/",
+        "example": ""
+    },
+    {
+        "vn": "Phát triển kỹ năng sáng tạo của tôi/phát triển tính sáng tạo của tôi",
+        "type": "verb phrase",
+        "en": "Develop my creative skills/develop my creativity",
+        "ipa": "/dɪˈveləp maɪ kriˈeɪtɪv skɪlz/ /dɪˈveləp maɪ kriːeɪˈtɪvəti/",
+        "example": ""
+    },
+    {
+        "vn": "Thư giãn hoặc giảm căng thẳng sau một ngày làm việc chăm chỉ",
+        "type": "verb phrase",
+        "en": "Unwind or reduce stress after an industrious day",
+        "ipa": "/ʌnˈwaɪnd ɔːr rɪˈdʒuːs stres ˈæftər ən ɪnˈdʌstriəs deɪ/",
+        "example": ""
+    },
+    {
+        "vn": "Thân thiện với môi trường",
+        "type": "adjective phrase",
+        "en": "Be environmentally friendly",
+        "ipa": "/biː ɪnˌvaɪrənˈmentəli ˈfrendli/",
+        "example": ""
+    },
+    {
+        "vn": "Giúp tự giải trí",
+        "type": "verb phrase",
+        "en": "Help entertain myself",
+        "ipa": "/help ˌɪntərˈteɪn maɪˈself/",
+        "example": ""
+    },
+    {
+        "vn": "Cải thiện/tăng cường/nâng cao kiến thức và hiểu biết của tôi",
+        "type": "verb phrase",
+        "en": "Improve/boost/enhance my knowledge and understanding",
+        "ipa": "/ɪmˈpruːv/ /buːst/ /ɪnˈhæns maɪ ˈnɒlɪdʒ ənd ˌʌndərˈstændɪŋ/",
+        "example": ""
+    },
+    {
+        "vn": "Kích thích năng lượng tích cực",
+        "type": "verb phrase",
+        "en": "Provoke positive energy",
+        "ipa": "/prəˈvəʊk ˈpɒzətɪv ˈenərdʒi/",
+        "example": ""
+    },
+    {
+        "vn": "Trải nghiệm văn hóa và truyền thống mới",
+        "type": "verb phrase",
+        "en": "Experience new cultures and traditions",
+        "ipa": "/ɪkˈspɪriəns njuː ˈkʌltʃərz ənd trəˈdɪʃənz/",
+        "example": ""
+    },
+    {
+        "vn": "Cải thiện sức khỏe về thể chất và tinh thần",
+        "type": "verb phrase",
+        "en": "Improve physical and mental health",
+        "ipa": "/ɪmˈpruːv ˈfɪzɪkəl ənd ˈmentəl helθ/",
+        "example": ""
+    },
+    {
+        "vn": "Đối mặt với vấn đề về sức khỏe",
+        "type": "verb phrase",
+        "en": "Face health problems",
+        "ipa": "/feɪs helθ ˈprɒbləmz/",
+        "example": ""
+    },
+    {
+        "vn": "Duy trì lối sống lành mạnh",
+        "type": "verb phrase",
+        "en": "Maintain a healthy lifestyle",
+        "ipa": "/meɪnˈteɪn ə ˈhelθi ˈlaɪfstaɪl/",
+        "example": ""
+    },
+    {
+        "vn": "Giữ dáng",
+        "type": "verb phrase",
+        "en": "Stay in shape",
+        "ipa": "/steɪ ɪn ʃeɪp/",
+        "example": ""
+    },
+    {
+        "vn": "Giữ tâm trạng tốt",
+        "type": "verb phrase",
+        "en": "Keep me in good mood",
+        "ipa": "/kiːp miː ɪn ɡʊd muːd/",
+        "example": ""
+    },
+    {
+        "vn": "Làm tăng tinh thần",
+        "type": "verb phrase",
+        "en": "Boost my mood/uplift my mood",
+        "ipa": "/buːst/ /ʌpˈlɪft maɪ muːd/",
+        "example": ""
+    },
+    {
+        "vn": "Cải thiện chất lượng cuộc sống",
+        "type": "verb phrase",
+        "en": "Improve the quality of my life",
+        "ipa": "/ɪmˈpruːv ðə ˈkwɒləti əv maɪ laɪf/",
+        "example": ""
+    },
+    {
+        "vn": "Nâng cao cuộc sống hàng ngày",
+        "type": "verb phrase",
+        "en": "Enhance my daily life",
+        "ipa": "/ɪnˈhæns maɪ ˈdeɪli laɪf/",
+        "example": ""
+    },
+    {
+        "vn": "Nỗ lực",
+        "type": "verb phrase",
+        "en": "Make an effort to",
+        "ipa": "/meɪk ən ˈefərt tuː/",
+        "example": ""
+    },
+    {
+        "vn": "Đóng vai trò quan trọng",
+        "type": "verb phrase",
+        "en": "Play an important role",
+        "ipa": "/pleɪ ən ɪmˈpɔːrtənt roʊl/",
+        "example": ""
+    },
+    {
+        "vn": "Nguồn giải trí",
+        "type": "noun phrase",
+        "en": "A source of entertainment",
+        "ipa": "/ə sɔːrs əv ˌentərˈteɪnmənt/",
+        "example": ""
+    },
+    {
+        "vn": "Một phương tiện để thư giãn",
+        "type": "noun phrase",
+        "en": "A means of relaxation",
+        "ipa": "/ə miːnz əv ˌriːlækˈseɪʃn/",
+        "example": ""
+    },
+    {
+        "vn": "Tạo ra những kỷ niệm sâu sắc",
+        "type": "verb phrase",
+        "en": "Create lasting memories",
+        "ipa": "/kriˈeɪt ˈlæstɪŋ ˈmeməriz/",
+        "example": ""
+    },
+    {
+        "vn": "Tìm hiểu về các nền văn hoá khác nhau",
+        "type": "verb phrase",
+        "en": "Learn about different cultures",
+        "ipa": "/lɜːrn əˈbaʊt ˈdɪfrənt ˈkʌltʃərz/",
+        "example": ""
+    },
+    {
+        "vn": "Khám phá những quan điểm mới",
+        "type": "verb phrase",
+        "en": "Discover new perspectives",
+        "ipa": "/dɪˈskʌvər nuː pərˈspektɪvz/",
+        "example": ""
+    },
+    {
+        "vn": "Duy trì liên lạc với người khác",
+        "type": "verb phrase",
+        "en": "Stay connected with others",
+        "ipa": "/steɪ kəˈnektɪd wɪθ ˈʌðərz/",
+        "example": ""
+    },
+    {
+        "vn": "Truy cập thông tin",
+        "type": "verb phrase",
+        "en": "Access information",
+        "ipa": "/ˈækses ˌɪnfərˈmeɪʃn/",
+        "example": ""
+    },
+    {
+        "vn": "Quản lý cuộc sống tốt hơn",
+        "type": "verb phrase",
+        "en": "Manage my life better",
+        "ipa": "/ˈmænɪdʒ maɪ laɪf ˈbetər/",
+        "example": ""
+    },
+    {
+        "vn": "Đặt nó là ưu tiên của tôi",
+        "type": "verb phrase",
+        "en": "Make it a priority for me",
+        "ipa": "/meɪk ɪt ə praɪˈɔːrəti fɔːr miː/",
+        "example": ""
+    },
+    {
+        "vn": "Một phần trong lịch trình hàng ngày của tôi",
+        "type": "noun phrase",
+        "en": "A part of my routine",
+        "ipa": "/ə ˈpɑːrt əv maɪ ruːˈtiːn/",
+        "example": ""
+    },
+    {
+        "vn": "Cập nhật thông tin",
+        "type": "verb phrase",
+        "en": "Keep updated with",
+        "ipa": "/kiːp ʌpˈdeɪtɪd wɪθ/",
+        "example": ""
+    },
+    {
+        "vn": "Mua hàng thiết yếu",
+        "type": "verb phrase",
+        "en": "Buy necessities",
+        "ipa": "/baɪ nəˈsesɪtiz/",
+        "example": ""
+    },
+    {
+        "vn": "Dành nhiều thời gian cho cái gì",
+        "type": "verb phrase",
+        "en": "Spend much time on sth",
+        "ipa": "/spend mʌtʃ taɪm ɒn/",
+        "example": ""
+    },
+    {
+        "vn": "Hoàn thành đúng hạn",
+        "type": "verb phrase",
+        "en": "Meet the deadlines",
+        "ipa": "/miːt ðə ˈdedlaɪnz/",
+        "example": ""
+    },
+    {
+        "vn": "Giảm ô nhiễm",
+        "type": "verb phrase",
+        "en": "Reduce pollution",
+        "ipa": "/rɪˈdʒuːs pəˈluːʃn/",
+        "example": ""
+    },
+    {
+        "vn": "Giảm ùn tắc giao thông",
+        "type": "verb phrase",
+        "en": "Decrease traffic congestion",
+        "ipa": "/dɪˈkriːs ˈtræfɪk kənˈdʒestʃən/",
+        "example": ""
+    },
+    {
+        "vn": "Mắc cắt cổ (rất đắt)",
+        "type": "idiom",
+        "en": "Costs an arm and a leg",
+        "ipa": "/kɒsts ən ɑːrm ənd ə leɡ/",
+        "example": ""
+    }
 ]
