@@ -348,5 +348,82 @@
         "en": "Costs an arm and a leg",
         "ipa": "/kɒsts ən ɑːrm ənd ə leɡ/",
         "example": ""
-    }
+    },
+     {
+        "vn": "Tôi vô vọng/khủng khiếp/tồi tệ ở điều gì đó",
+        "type": "phrase",
+        "en": "I'm hopeless/terrible at sth",
+        "ipa": "/aɪm ˈhəʊpləs/ˈterəbl æt/",
+        "example": "E.g., I'm hopeless at playing the piano. [Tôi hoàn toàn bất lực khi chơi đàn piano]"
+    },
+    {
+        "vn": "Tôi hoàn toàn không đồng ý với",
+        "type": "phrase",
+        "en": "I strongly disagree with",
+        "ipa": "/aɪ ˈstrɒŋli dɪsəˈɡriː wɪθ/",
+        "example": "E.g., I strongly disagree with your opinion on the matter. [Tôi hoàn toàn không đồng ý với quan điểm của bạn về vấn đề này.]"
+    },
+    {
+        "vn": "Tôi thấy thật khó để làm điều gì đó",
+        "type": "phrase",
+        "en": "I find it difficult to do sth",
+        "ipa": "/aɪ faɪnd ɪt ˈdɪfɪkəlt tuː duː/",
+        "example": "E.g., I find it difficult to understand complex mathematical problems. [Tôi thấy khó hiểu các bài toán phức tạp.]"
+    },
+    {
+        "vn": "Có tâm trạng tồi tệ",
+        "type": "phrase",
+        "en": "Be in a bad mood",
+        "ipa": "/biː ɪn ə bæd muːd/",
+        "example": "E.g., He seems to be in a bad mood today; maybe something happened at work. [Hôm nay anh ấy có vẻ đang ở trong tâm trạng tồi tệ; có lẽ có chuyện gì đó đã xảy ra ở chỗ làm.]"
+    },
+    {
+        "vn": "Làm hại cái gì đó",
+        "type": "phrase",
+        "en": "Do harm to sth",
+        "ipa": "/duː hɑːrm tuː/",
+        "example": "E.g., Smoking can do harm to your lungs and overall respiratory system. [Hút thuốc có thể gây hại cho phổi và toàn bộ hệ hô hấp của bạn.]"
+    },
+    {
+        "vn": "Cảm thấy tội lỗi về",
+        "type": "phrase",
+        "en": "Feel guilty about",
+        "ipa": "/fiːl ˈɡɪlti əˈbaʊt/",
+        "example": "E.g., She feels guilty about forgetting her friend's birthday. [Cô ấy cảm thấy tội lỗi vì đã quên sinh nhật bạn mình.]"
+    },
+        {
+        "vn": "Chủ yếu gây ra các vấn đề về sức khỏe, chẳng hạn như béo phì, tiểu đường và bệnh tim.",
+        "type": "phrase",
+        "en": "Primarily cause health problems, such as obesity, diabetes, and heart disease.",
+        "ipa": "/ˈpraɪmərəli kɔːz helθ ˈprɒbləmz sʌtʃ æz əˈbiːsəti ˌdaɪəˈbiːtiːz ənd hɑːrt dɪˈziːz/",
+        "example": "E.g., Consuming excessive sugar can primarily cause health problems, such as obesity, diabetes, and heart disease. [Tiêu thụ quá nhiều đường có thể chủ yếu gây ra các vấn đề về sức khỏe, chẳng hạn như béo phì, tiểu đường và bệnh tim.]"
+    },
+    {
+    "vn": "Ảnh hưởng tiêu cực đến cái gì (cuộc sống của mọi người)",
+    "type": "phrase",
+    "en": "Negatively affect/ impact/ influence sth (people's lives)",
+    "ipa": "/ˈneɡətɪvli əˈfekt/ /ˈɪmpækt/ /ˈɪnfluːəns/ [sth (ˈpiːplz laɪvz)]",
+    "example": "E.g., Excessive use of electronic devices can negatively affect people's sleep patterns. [Việc sử dụng quá mức các thiết bị điện tử có thể ảnh hưởng tiêu cực đến giấc ngủ của mọi người.]"
+  },
+  {
+    "vn": "Ảnh hưởng đáng kể đến sức khỏe thể chất và tinh thần của mọi người",
+    "type": "phrase",
+    "en": "Significantly influence/ affect/ impact people's physical and mental health",
+    "ipa": "/sɪˈɡnɪfɪkəntli ˈɪnfluːəns/ əˈfekt/ ˈɪmpækt ˈpiːplz ˈfɪzɪkəl ənd ˈmentəl helθ/",
+    "example": "E.g., Stress and anxiety can significantly influence people's physical and mental health. [Căng thẳng và lo âu có thể ảnh hưởng đáng kể đến sức khỏe thể chất và tinh thần của mọi người.]"
+  },
+  {
+    "vn": "Dẫn đến tình trạng thiếu hụt cái gì",
+    "type": "phrase",
+    "en": "Lead to a lack of sth",
+    "ipa": "/liːd tuː ə læk əv/",
+    "example": "E.g., Lack of exercise can lead to a lack of physical fitness and overall well-being. [Thiếu tập thể dục có thể dẫn đến thiếu thể lực và sức khỏe tổng thể.]"
+  },
+  {
+    "vn": "Lãng phí thời gian và tiền bạc",
+    "type": "phrase",
+    "en": "Waste time and money",
+    "ipa": "/weɪst taɪm ənd ˈmʌni/",
+    "example": "E.g., Don't waste your time on activities that don't contribute to your goals. [Đừng lãng phí thời gian vào những hoạt động không đóng góp vào mục tiêu của bạn.]"
+  }
 ]
