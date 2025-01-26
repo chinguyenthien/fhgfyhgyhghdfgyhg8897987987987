@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Vocabulary List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Edit Vocabulary List</h1>
+    
+
+       <div class="input-group">
+            <label for="en">English:</label>
+            <textarea id="en"></textarea>
+        </div>
+        <div class="input-group">
+            <label for="type">Type:</label>
+            <input type="text" id="type">
+        </div>
+     <div class="input-group">
+            <label for="vn">Vietnamese:</label>
+            <textarea id="vn"></textarea>
+        </div>
+        <button id="add">Add</button>
+        <button id="update">Update</button>
+        <button id="delete">Delete</button>
+        <button id="save">Save</button>
+        <button id="back">Back to Main</button>
+        <div id="word-list"></div>
+    </div>
+
+    <script src="edit.js"></script>
+</body>
+</html>
