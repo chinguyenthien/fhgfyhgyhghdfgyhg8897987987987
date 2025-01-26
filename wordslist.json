@@ -425,5 +425,622 @@
     "en": "Waste time and money",
     "ipa": "/weɪst taɪm ənd ˈmʌni/",
     "example": "E.g., Don't waste your time on activities that don't contribute to your goals. [Đừng lãng phí thời gian vào những hoạt động không đóng góp vào mục tiêu của bạn.]"
-  }
+  },
+    {
+    "vn": "Đắm mình trong truyền thống địa phương",
+    "type": "phrase",
+    "en": "Immerse in local traditions",
+    "ipa": "/ɪˈmɜrs ɪn ˈloʊkəl trəˈdɪʃənz/",
+    "example": "People can immerse in local traditions to understand diverse lifestyles. (Mọi người có thể đắm mình trong truyền thống địa phương để hiểu các lối sống đa dạng.)"
+  },
+  {
+    "vn": "Trải nghiệm các lễ hội văn hóa",
+    "type": "phrase",
+    "en": "Experience cultural festivals",
+    "ipa": "/ɪkˈspɪriəns ˈkʌltʃərəl ˈfɛstɪvəlz/",
+    "example": "People can experience cultural festivals to celebrate and learn about local customs. (Mọi người có thể trải nghiệm các lễ hội văn hóa để ăn mừng và tìm hiểu về phong tục địa phương.)"
+  },
+  {
+    "vn": "Thưởng thức ẩm thực truyền thống",
+    "type": "phrase",
+    "en": "Sample traditional cuisine",
+    "ipa": "/ˈsæmpəl trəˈdɪʃənl kwiˈziːn/",
+    "example": "People can sample traditional cuisine to explore new tastes. (Mọi người có thể thử ẩm thực truyền thống để khám phá những hương vị mới.)"
+  },
+  {
+    "vn": "Học ngôn ngữ địa phương",
+    "type": "phrase",
+    "en": "Learn local languages",
+    "ipa": "/lɜːrn ˈloʊkəl ˈlæŋɡwɪdʒɪz/",
+    "example": "People can learn local languages to improve communication during their travels. (Mọi người có thể học ngôn ngữ địa phương để cải thiện giao tiếp trong chuyến đi của họ.)"
+  },
+  {
+    "vn": "Quan sát phong tục địa phương",
+    "type": "phrase",
+    "en": "Observe local customs",
+    "ipa": "/əbˈzɜːrv ˈloʊkəl ˈkʌstəmz/",
+    "example": "People can observe local customs to gain insight into cultural practices. (Mọi người có thể quan sát phong tục địa phương để hiểu biết sâu sắc hơn về các hoạt động văn hóa.)"
+  },
+  {
+    "vn": "Tham gia trao đổi văn hóa",
+    "type": "phrase",
+    "en": "Engage in cultural exchanges",
+    "ipa": "/ɪnˈɡeɪdʒ ɪn ˈkʌltʃərəl ɪksˈtʃeɪndʒɪz/",
+    "example": "People can engage in cultural exchanges to share and gain knowledge. (Mọi người có thể tham gia trao đổi văn hóa để chia sẻ và tích lũy kiến thức.)"
+  },
+    {
+    "vn": "Ngắm nghía nghệ thuật và kiến trúc",
+    "type": "phrase",
+    "en": "Appreciate art and architecture",
+    "ipa": "/əˈpriːʃieɪt ɑːrt ænd ˈɑːrkɪtektʃər/",
+    "example": "People can appreciate art and architecture to understand historical and aesthetic values. (Mọi người có thể ngắm nghía nghệ thuật và kiến trúc để hiểu giá trị lịch sử và thẩm mỹ."
+  },
+    {
+        "vn": "Tham gia các hội thảo",
+        "type": "phrase",
+        "en": "Participate in workshops",
+        "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈwɜːrkʃɒps/",
+        "example": "People can participate in workshops to master traditional skills. (Mọi người có thể tham gia các hội thảo để thành thạo các kỹ năng truyền thống.)"
+    },
+    {
+        "vn": "Sưu tập nghệ thuật địa phương",
+        "type": "phrase",
+        "en": "Collect local art",
+        "ipa": "/kəˈlekt ˈloʊkəl ɑːrt/",
+        "example": "People can collect local art as a way to preserve cultural heritage. (Mọi người có thể sưu tập nghệ thuật địa phương như một cách để bảo tồn di sản văn hóa.)"
+    },
+    {
+        "vn": "Khám phá các di sản văn hóa",
+        "type": "phrase",
+        "en": "Explore cultural heritage sites",
+        "ipa": "/ɪkˈsplɔːr ˈkʌltʃərəl ˈherɪtɪdʒ saɪts/",
+        "example": "People can explore cultural heritage sites to deepen their historical understanding. (Mọi người có thể khám phá các di sản văn hóa để làm sâu sắc thêm hiểu biết lịch sử của họ.)"
+    },
+     {
+        "vn": "Theo đuổi học tập quốc tế",
+        "type": "phrase",
+        "en": "Pursue international studies",
+        "ipa": "/pərˈsuː ˌɪntərˈnæʃənl ˈstʌdiz/",
+        "example": "People can pursue international studies to gain global insights and enhance their resumes. (Mọi người có thể theo đuổi học tập quốc tế để có được cái nhìn toàn cầu và nâng cao hồ sơ của họ.)"
+    },
+    {
+        "vn": "Truy cập giáo dục trực tuyến",
+        "type": "phrase",
+        "en": "Access online education",
+        "ipa": "/ˈækses ˌɒnˈlaɪn ˌedʒuˈkeɪʃn/",
+        "example": "People can access online education to study anytime and from anywhere. (Mọi người có thể truy cập giáo dục trực tuyến để học bất cứ lúc nào và từ bất cứ đâu.)"
+    },
+    {
+        "vn": "Tham gia các hội thảo",
+        "type": "phrase",
+        "en": "Participate in workshops",
+        "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈwɜːrkʃɒps/",
+        "example": "People can participate in workshops to enhance their skills. (Mọi người có thể tham gia các hội thảo để nâng cao kỹ năng của mình.)"
+    },
+    {
+    "vn": "Tham gia trao đổi văn hóa",
+    "type": "phrase",
+    "en": "Engage in cultural exchanges",
+    "ipa": "/ɪnˈɡeɪdʒ ɪn ˈkʌltʃərəl ɪksˈtʃeɪndʒɪz/",
+    "example": "People can engage in cultural exchanges to share and gain knowledge. (Mọi người có thể tham gia trao đổi văn hóa để chia sẻ và tích lũy kiến thức.)"
+  },
+  {
+    "vn": "Ngắm nghía nghệ thuật và kiến trúc",
+    "type": "phrase",
+    "en": "Appreciate art and architecture",
+    "ipa": "/əˈpriːʃieɪt ɑːrt ænd ˈɑːrkɪtektʃər/",
+    "example": "People can appreciate art and architecture to understand historical and aesthetic values. (Mọi người có thể ngắm nghía nghệ thuật và kiến trúc để hiểu giá trị lịch sử và thẩm mỹ.)"
+  },
+  {
+    "vn": "Tham gia các hội thảo",
+    "type": "phrase",
+    "en": "Participate in workshops",
+    "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈwɜːrkʃɒps/",
+    "example": "People can participate in workshops to master traditional skills. (Mọi người có thể tham gia các hội thảo để thành thạo các kỹ năng truyền thống.)"
+  },
+  {
+    "vn": "Sưu tập nghệ thuật địa phương",
+    "type": "phrase",
+    "en": "Collect local art",
+    "ipa": "/kəˈlekt ˈloʊkəl ɑːrt/",
+    "example": "People can collect local art as a way to preserve cultural heritage. (Mọi người có thể sưu tập nghệ thuật địa phương như một cách để bảo tồn di sản văn hóa.)"
+  },
+  {
+    "vn": "Khám phá các di sản văn hóa",
+    "type": "phrase",
+    "en": "Explore cultural heritage sites",
+    "ipa": "/ɪkˈsplɔːr ˈkʌltʃərəl ˈherɪtɪdʒ saɪts/",
+    "example": "People can explore cultural heritage sites to deepen their historical understanding. (Mọi người có thể khám phá các di sản văn hóa để làm sâu sắc thêm hiểu biết lịch sử của họ.)"
+  },
+  {
+    "vn": "Theo đuổi học tập quốc tế",
+    "type": "phrase",
+    "en": "Pursue international studies",
+    "ipa": "/pərˈsuː ˌɪntərˈnæʃənl ˈstʌdiz/",
+    "example": "People can pursue international studies to gain global insights and enhance their resumes. (Mọi người có thể theo đuổi học tập quốc tế để có được cái nhìn toàn cầu và nâng cao hồ sơ của họ.)"
+  },
+  {
+    "vn": "Truy cập giáo dục trực tuyến",
+    "type": "phrase",
+    "en": "Access online education",
+    "ipa": "/ˈækses ˌɒnˈlaɪn ˌedʒuˈkeɪʃn/",
+    "example": "People can access online education to study anytime and from anywhere. (Mọi người có thể truy cập giáo dục trực tuyến để học bất cứ lúc nào và từ bất cứ đâu.)"
+  },
+    {
+        "vn": "Tham gia các hội thảo",
+        "type": "phrase",
+        "en": "Participate in workshops",
+        "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈwɜːrkʃɒps/",
+        "example": "People can participate in workshops to enhance their skills. (Mọi người có thể tham gia các hội thảo để nâng cao kỹ năng của mình.)"
+    },
+        {
+        "vn": "Tham gia nghiên cứu",
+        "type": "phrase",
+        "en": "Engage in research",
+        "ipa": "/ɪnˈɡeɪdʒ ɪn rɪˈsɜːrtʃ/",
+        "example": "People can engage in research to contribute to scientific knowledge. (Mọi người có thể tham gia nghiên cứu để đóng góp vào kiến thức khoa học.)"
+    },
+    {
+        "vn": "Tiếp thu kiến thức mới",
+        "type": "phrase",
+        "en": "Acquire new knowledge",
+        "ipa": "/əˈkwaɪər njuː ˈnɒlɪdʒ/",
+        "example": "People can acquire new knowledge through educational programs. (Mọi người có thể tiếp thu kiến thức mới thông qua các chương trình giáo dục.)"
+    },
+    {
+        "vn": "Phát triển tư duy phản biện",
+        "type": "phrase",
+        "en": "Develop critical thinking",
+        "ipa": "/dɪˈveləp ˈkrɪtɪkəl ˈθɪŋkɪŋ/",
+        "example": "People can develop critical thinking by engaging in debates and discussions. (Mọi người có thể phát triển tư duy phản biện bằng cách tham gia tranh luận và thảo luận.)"
+    },
+    {
+        "vn": "Cải thiện kỹ năng đọc viết",
+        "type": "phrase",
+        "en": "Improve literacy skills",
+        "ipa": "/ɪmˈpruːv ˈlɪtərəsi skɪlz/",
+        "example": "People can improve literacy skills through reading programs. (Mọi người có thể cải thiện kỹ năng đọc viết thông qua các chương trình đọc sách.)"
+    },
+    {
+        "vn": "Đạt được bằng cấp",
+        "type": "phrase",
+        "en": "Earn degrees",
+        "ipa": "/ɜːrn dɪˈɡriːz/",
+        "example": "People can earn degrees by completing university courses. (Mọi người có thể đạt được bằng cấp bằng cách hoàn thành các khóa học đại học.)"
+    },
+    {
+        "vn": "Tiếp cận giáo dục cao hơn",
+        "type": "phrase",
+        "en": "Access higher education",
+        "ipa": "/ˈækses ˈhaɪər ˌedʒuˈkeɪʃn/",
+        "example": "People can access higher education through scholarships and grants. .(Mọi người có thể hợp tác quốc tế để giải quyết các thách thức toàn cầu.)"
+    },
+    {
+    "vn": "Du lịch đến những địa điểm kỳ lạ",
+    "type": "phrase",
+    "en": "Travel to exotic locations",
+    "ipa": "/ˈtrævl tuː ɪɡˈzɒtɪk ləʊˈkeɪʃənz/",
+    "example": "People can travel to exotic locations to explore new environments. (Mọi người có thể du lịch đến những địa điểm kỳ lạ để khám phá môi trường mới.)"
+  },
+  {
+    "vn": "Thư giãn trên bãi biển",
+    "type": "phrase",
+    "en": "Relax on the beach",
+    "ipa": "/rɪˈlæks ɒn ðə biːtʃ/",
+    "example": "People can relax on the beach to unwind and soak up the sun. (Mọi người có thể thư giãn trên bãi biển để thư giãn và tắm nắng.)"
+  },
+  {
+    "vn": "Khám phá ẩm thực mới",
+    "type": "phrase",
+    "en": "Discover new cuisines",
+    "ipa": "/dɪˈskʌvər njuː kwɪˈziːnz/",
+    "example": "People can discover new cuisines to expand their culinary horizons. (Mọi người có thể khám phá ẩm thực mới để mở rộng chân trời ẩm thực của họ.)"
+  },
+  {
+    "vn": "Tham gia thể thao mạo hiểm",
+    "type": "phrase",
+    "en": "Take part in adventure sports",
+    "ipa": "/teɪk pɑːrt ɪn ədˈventʃər spɔːrts/",
+    "example": "People can take part in adventure sports to experience thrill and excitement. (Mọi người có thể tham gia thể thao mạo hiểm để trải nghiệm cảm giác mạnh và hồi hộp.)"
+  },
+  {
+    "vn": "Thăm dấu mốc lịch sử",
+    "type": "phrase",
+    "en": "Visit historical landmarks",
+    "ipa": "/ˈvɪzɪt hɪˈstɒrɪkəl ˈlændmɑːrks/",
+    "example": "People can visit historical landmarks to learn about the past. (Mọi người có thể thăm dấu mốc lịch sử để tìm hiểu về quá khứ.)"
+  },
+  {
+    "vn": "Tận hưởng các hoạt động giải trí",
+    "type": "phrase",
+    "en": "Enjoy leisure activities",
+    "ipa": "/ɪnˈdʒɔɪ ˈleʒər ækˈtɪvɪtiz/",
+    "example": "People can enjoy leisure activities to relax and have fun. (Mọi người có thể tận hưởng các hoạt động giải trí để thư giãn và vui vẻ.)"
+  },
+  {
+    "vn": "Khám phá khu bảo tồn thiên nhiên",
+    "type": "phrase",
+    "en": "Explore nature reserves",
+    "ipa": "/ɪkˈsplɔːr ˈneɪtʃər rɪˈzɜːrvz/",
+    "example": "People can explore nature reserves to observe wildlife and pristine environments. (Mọi người có thể khám phá khu bảo tồn thiên nhiên để quan sát động vật hoang dã và môi trường nguyên sơ.)"
+  },
+  {
+    "vn": "Tham gia các tour du lịch sinh thái",
+    "type": "phrase",
+    "en": "Participate in eco-tours",
+    "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈiːkəʊ tʊərz/",
+    "example": "People can participate in eco-tours to learn about sustainability and conservation. (Mọi người có thể tham gia các tour du lịch sinh thái để tìm hiểu về bền vững và bảo tồn.)"
+  },
+  {
+    "vn": "Tận hưởng các liệu pháp spa",
+    "type": "phrase",
+    "en": "Indulge in spa treatments",
+    "ipa": "/ɪnˈdʌldʒ ɪn spɑː ˈtriːtmənts/",
+    "example": "People can indulge in spa treatments to rejuvenate and refresh themselves. (Mọi người có thể tận hưởng các liệu pháp spa để làm mới mình và nạp lại năng lượng.)"
+  },
+    {
+    "vn": "Đặt phòng khách sạn sang trọng",
+    "type": "phrase",
+    "en": "Book luxury accommodations",
+    "ipa": "/bʊk ˈlʌkʃəri əˌkɒməˈdeɪʃənz/",
+    "example": "People can book luxury accommodations for a comfortable and pampered stay. (Mọi người có thể đặt phòng khách sạn sang trọng để có một kỳ nghỉ thoải mái và được chăm sóc tận tình.)"
+  },
+  {
+    "vn": "Khám phá xu hướng thời trang",
+    "type": "phrase",
+    "en": "Explore fashion trends",
+    "ipa": "/ɪkˈsplɔːr ˈfæʃən trendz/",
+    "example": "People can explore fashion trends to stay updated with the latest styles. (Mọi người có thể khám phá xu hướng thời trang để cập nhật những phong cách mới nhất.)"
+  },
+  {
+    "vn": "Mặc quần áo của nhà thiết kế",
+    "type": "phrase",
+    "en": "Wear designer clothes",
+    "ipa": "/wer dɪˈzaɪnər kləʊðz/",
+    "example": "People can wear designer clothes to express their personal style. (Mọi người có thể mặc quần áo của nhà thiết kế để thể hiện phong cách cá nhân của họ.)"
+  },
+  {
+    "vn": "Tham dự các buổi trình diễn thời trang",
+    "type": "phrase",
+    "en": "Attend fashion shows",
+    "ipa": "/əˈtend ˈfæʃən ʃəʊz/",
+    "example": "People can attend fashion shows to see new collections and meet designers. (Mọi người có thể tham dự các buổi trình diễn thời trang để xem các bộ sưu tập mới và gặp gỡ các nhà thiết kế.)"
+  },
+  {
+    "vn": "Tùy chỉnh trang phục",
+    "type": "phrase",
+    "en": "Customize outfits",
+    "ipa": "/ˈkʌstəmaɪz ˈaʊtfɪts/",
+    "example": "People can customize outfits to fit their unique tastes and needs. (Mọi người có thể tùy chỉnh trang phục để phù hợp với sở thích và nhu cầu riêng của họ.)"
+  },
+  {
+    "vn": "Mua sắm tại các cửa hàng boutique",
+    "type": "phrase",
+    "en": "Shop at boutiques",
+    "ipa": "/ʃɒp æt buːˈtiːks/",
+    "example": "People can shop at boutiques to find exclusive and high-quality items. (Mọi người có thể mua sắm tại các cửa hàng boutique để tìm kiếm các mặt hàng độc quyền và chất lượng cao.)"
+  },
+  {
+    "vn": "Theo dõi các nhà ảnh hưởng thời trang",
+    "type": "phrase",
+    "en": "Follow fashion influencers",
+    "ipa": "/ˈfɒləʊ ˈfæʃən ˈɪnfluːənsərz/",
+    "example": "People can follow fashion influencers for inspiration and style tips. (Mọi người có thể theo dõi các nhà ảnh hưởng thời trang để lấy cảm hứng và các mẹo về phong cách.)"
+  },
+    {
+    "vn": "Tham gia cuộc thi thời trang",
+    "type": "phrase",
+    "en": "Participate in fashion contests",
+    "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈfæʃən ˈkɒntests/",
+    "example": "People can participate in fashion contests to showcase their designs or styling skills. (Mọi người có thể tham gia cuộc thi thời trang để trình diễn các thiết kế hoặc kỹ năng phối đồ của mình.)"
+  },
+    
+    {
+    "vn": "Phát triển phong cách cá nhân",
+    "type": "phrase",
+    "en": "Develop a personal style",
+    "ipa": "/dɪˈveləp ə ˈpɜːrsənl staɪl/",
+    "example": "People can develop a personal style that reflects their identity and preferences. (Mọi người có thể phát triển phong cách cá nhân phản ánh danh tính và sở thích của họ.)"
+  },
+  {
+    "vn": "Đầu tư vào tủ quần áo chất lượng",
+    "type": "phrase",
+    "en": "Invest in quality wardrobe",
+    "ipa": "/ɪnˈvest ɪn ˈkwɒləti ˈwɔːrdrəʊb/",
+    "example": "People can invest in a quality wardrobe to enhance their appearance and confidence. (Mọi người có thể đầu tư vào tủ quần áo chất lượng để nâng cao vẻ ngoài và sự tự tin.)"
+  },
+  {
+    "vn": "Tìm hiểu về lịch sử thời trang",
+    "type": "phrase",
+    "en": "Learn about fashion history",
+    "ipa": "/lɜːrn əˈbaʊt ˈfæʃən ˈhɪstri/",
+    "example": "People can learn about fashion history to appreciate the evolution of styles. (Mọi người có thể tìm hiểu về lịch sử thời trang để đánh giá cao sự phát triển của các phong cách.)"
+  },
+  {
+    "vn": "Chống lại biến đổi khí hậu",
+    "type": "phrase",
+    "en": "Combat climate change",
+    "ipa": "/ˈkɒmbæt ˈklaɪmɪt tʃeɪndʒ/",
+    "example": "People can combat climate change by reducing their carbon footprint. (Mọi người có thể chống lại biến đổi khí hậu bằng cách giảm dấu chân carbon của họ.)"
+  },
+  {
+    "vn": "Giải quyết bất bình đẳng thu nhập",
+    "type": "phrase",
+    "en": "Address income inequality",
+    "ipa": "/əˈdres ˈɪnkʌm ˌɪnɪˈkwɒləti/",
+    "example": "People can address income inequality by supporting fair wage policies. (Mọi người có thể giải quyết bất bình đẳng thu nhập bằng cách ủng hộ chính sách tiền lương công bằng.)"
+  },
+  {
+    "vn": "Chống lại phân biệt chủng tộc",
+    "type": "phrase",
+    "en": "Fight against racial discrimination",
+    "ipa": "/faɪt əˈɡenst ˈreɪʃəl dɪˌskrɪmɪˈneɪʃn/",
+    "example": "People can fight against racial discrimination by promoting diversity and inclusion. (Mọi người có thể chống lại phân biệt chủng tộc bằng cách thúc đẩy đa dạng và hòa nhập.)"
+  },
+    {
+    "vn": "Cải thiện an ninh lương thực",
+    "type": "phrase",
+    "en": "Enhance food security",
+    "ipa": "/ɪnˈhæns fuːd sɪˈkjʊərəti/",
+    "example": "People can enhance food security by supporting sustainable agriculture. (Mọi người có thể cải thiện an ninh lương thực bằng cách hỗ trợ nông nghiệp bền vững.)"
+  },
+    {
+    "vn": "Hỗ trợ bình đẳng giới",
+    "type": "phrase",
+    "en": "Support gender equality",
+    "ipa": "/səˈpɔːrt ˈdʒendər ɪˈkwɒləti/",
+    "example": "People can support gender equality by advocating for equal opportunities in all sectors. (Mọi người có thể hỗ trợ bình đẳng giới bằng cách ủng hộ cơ hội bình đẳng trong tất cả các ngành.)"
+  },
+  {
+    "vn": "Đấu tranh cho quyền của người tị nạn",
+    "type": "phrase",
+    "en": "Advocate for refugee rights",
+    "ipa": "/ˈædvəkeɪt fɔːr ˌrefjuːˈdʒi raɪts/",
+    "example": "People can advocate for refugee rights by promoting laws that protect asylum seekers. (Mọi người có thể đấu tranh cho quyền của người tị nạn bằng cách thúc đẩy các luật bảo vệ người xin tị nạn.)"
+  },
+  {
+    "vn": "Giảm ô nhiễm nhựa",
+    "type": "phrase",
+    "en": "Reduce plastic pollution",
+    "ipa": "/rɪˈdʒuːs ˈplæstɪk pəˈluːʃn/",
+    "example": "People can reduce plastic pollution by using reusable and biodegradable materials. (Mọi người có thể giảm ô nhiễm nhựa bằng cách sử dụng các vật liệu tái sử dụng và sinh học phân hủy.)"
+  },
+  {
+    "vn": "Thúc đẩy nhận thức về sức khỏe tâm thần",
+    "type": "phrase",
+    "en": "Promote mental health awareness",
+    "ipa": "/prəˈmoʊt ˈmentəl helθ əˈwɛərnəs/",
+    "example": "People can promote mental health awareness by organizing and participating in mental health campaigns. (Mọi người có thể thúc đẩy nhận thức về sức khỏe tâm thần bằng cách tổ chức và tham gia vào các chiến dịch về sức khỏe tâm thần.)"
+  },
+  {
+    "vn": "Hỗ trợ phát triển đô thị bền vững",
+    "type": "phrase",
+    "en": "Support sustainable urban development",
+    "ipa": "/səˈpɔːrt səˈsteɪnəbəl ˈɜːrbən dɪˈveləpmənt/",
+    "example": "People can support sustainable urban development by advocating for green building practices. (Mọi người có thể hỗ trợ phát triển đô thị bền vững bằng cách ủng hộ các phương pháp xây dựng xanh.)"
+  },
+  {
+    "vn": "Tham gia dịch vụ cộng đồng",
+    "type": "phrase",
+    "en": "Engage in community service",
+    "ipa": "/ɪnˈɡeɪdʒ ɪn kəˈmjuːnəti ˈsɜːrvɪs/",
+    "example": "People can engage in community service to help improve their neighborhoods. (Mọi người có thể tham gia vào dịch vụ cộng đồng để giúp cải thiện khu vực lân cận của họ.)"
+  },
+    {
+    "vn": "Thúc đẩy doanh nghiệp địa phương",
+    "type": "phrase",
+    "en": "Promote local businesses",
+    "ipa": "/prəˈmoʊt ˈloʊkəl ˈbɪznəsɪz/",
+    "example": "People can promote local businesses by choosing to shop locally. (Mọi người có thể thúc đẩy doanh nghiệp địa phương bằng cách chọn mua sắm tại các cửa hàng địa phương.)"
+  },
+  {
+    "vn": "Đầu tư vào cơ sở hạ tầng",
+    "type": "phrase",
+    "en": "Invest in infrastructure",
+    "ipa": "/ɪnˈvest ɪn ˈɪnfrəˌstrʌktʃər/",
+    "example": "People can invest in infrastructure to improve transportation and public services. (Mọi người có thể đầu tư vào cơ sở hạ tầng để cải thiện giao thông và dịch vụ công.)"
+  },
+  {
+    "vn": "Nâng cao kỹ năng nguồn nhân lực",
+    "type": "phrase",
+    "en": "Enhance workforce skills",
+    "ipa": "/ɪnˈhæns ˈwɜːrkfɔːrs skɪlz/",
+    "example": "People can enhance workforce skills through continuous education and training programs. (Mọi người có thể nâng cao kỹ năng nguồn nhân lực thông qua các chương trình giáo dục và đào tạo liên tục.)"
+  },
+  {
+    "vn": "Khuyến khích đổi mới",
+    "type": "phrase",
+    "en": "Foster innovation",
+    "ipa": "/ˈfɔːstər ˌɪnəˈveɪʃn/",
+    "example": "People can foster innovation by supporting startups and tech hubs. (Mọi người có thể khuyến khích đổi mới bằng cách hỗ trợ các công ty khởi nghiệp và trung tâm công nghệ.)"
+  },
+  {
+    "vn": "Phát triển các ngành công nghiệp bền vững",
+    "type": "phrase",
+    "en": "Develop sustainable industries",
+    "ipa": "/dɪˈveləp səˈsteɪnəbəl ˈɪndəstriz/",
+    "example": "People can develop sustainable industries to ensure long-term economic growth. (Mọi người có thể phát triển các ngành công nghiệp bền vững để đảm bảo tăng trưởng kinh tế lâu dài.)"
+  },
+  {
+    "vn": "Khuyến khích khởi nghiệp",
+    "type": "phrase",
+    "en": "Encourage entrepreneurship",
+    "ipa": "/ɪnˈkʌrɪdʒ ˌɒntrəprəˈnɜːrʃɪp/",
+    "example": "People can encourage entrepreneurship by creating a favorable business environment. (Mọi người có thể khuyến khích khởi nghiệp bằng cách tạo một môi trường kinh doanh thuận lợi.)"
+  },
+  {
+    "vn": "Thu hút đầu tư nước ngoài",
+    "type": "phrase",
+    "en": "Attract foreign investment",
+    "ipa": "/əˈtrækt ˈfɔːrɪn ɪnˈvestmənt/",
+    "example": "People can attract foreign investment by improving economic policies and incentives. (Mọi người có thể thu hút đầu tư nước ngoài bằng cách cải thiện chính sách kinh tế và các khuyến khích.)"
+  },
+   {
+    "vn": "Giảm thất nghiệp",
+    "type": "phrase",
+    "en": "Reduce unemployment",
+    "ipa": "/rɪˈdʒuːs ˌʌnɪmˈplɔɪmənt/",
+    "example": "People can reduce unemployment by facilitating job creation and skills matching. (Mọi người có thể giảm thất nghiệp bằng cách tạo việc làm và phù hợp kỹ năng.)"
+  },
+  {
+    "vn": "Cải thiện chính sách kinh tế",
+    "type": "phrase",
+    "en": "Improve economic policies",
+    "ipa": "/ɪmˈpruːv ˌiːkəˈnɒmɪk ˈpɒləsiz/",
+    "example": "People can improve economic policies to stabilize the market and attract investors. (Mọi người có thể cải thiện chính sách kinh tế để ổn định thị trường và thu hút nhà đầu tư.)"
+  },
+  {
+    "vn": "Hỗ trợ sản xuất địa phương",
+    "type": "phrase",
+    "en": "Support local manufacturing",
+    "ipa": "/səˈpɔːrt ˈloʊkəl ˌmænjuˈfæktʃərɪŋ/",
+    "example": "People can support local manufacturing to boost domestic production and reduce imports. (Mọi người có thể hỗ trợ sản xuất địa phương để thúc đẩy sản xuất trong nước và giảm nhập khẩu.)"
+  },
+  {
+    "vn": "Tham gia câu lạc bộ trong khuôn viên trường",
+    "type": "phrase",
+    "en": "Join campus clubs",
+    "ipa": "/dʒɔɪn ˈkæmpəs klʌbz/",
+    "example": "People can join campus clubs to explore interests and develop leadership skills. (Mọi người có thể tham gia câu lạc bộ trên khuôn viên trường để khám phá sở thích và phát triển kỹ năng lãnh đạo.)"
+  },
+  {
+    "vn": "Tham gia nhóm học tập",
+    "type": "phrase",
+    "en": "Participate in study groups",
+    "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈstʌdi ɡruːps/",
+    "example": "People can participate in study groups to enhance learning and meet peers. (Mọi người có thể tham gia nhóm học tập để nâng cao kiến thức và gặp gỡ bạn bè.)"
+  },
+  {
+    "vn": "Tham gia thể thao nội bộ",
+    "type": "phrase",
+    "en": "Engage in intramural sports",
+    "ipa": "/ɪnˈɡeɪdʒ ɪn ˌɪntrəˈmjʊərəl spɔːrts/",
+    "example": "People can engage in intramural sports to stay active and build team spirit. (Mọi người có thể tham gia thể thao nội bộ để giữ gìn sức khỏe và xây dựng tinh thần đồng đội.)"
+  },
+    {
+    "vn": "Tình nguyện cho các sự kiện trường đại học",
+    "type": "phrase",
+    "en": "Volunteer for university events",
+    "ipa": "/ˌvɒlənˈtɪər fɔːr juːnɪˈvɜːrsəti ɪˈvents/",
+    "example": "People can volunteer for university events to contribute to campus life and gain experience. (Mọi người có thể tình nguyện cho các sự kiện trường đại học để đóng góp cho đời sống khuôn viên và tích lũy kinh nghiệm.)"
+  },
+  {
+    "vn": "Khám phá nghệ thuật và thiết kế số",
+    "type": "phrase",
+    "en": "Explore digital art and design",
+    "ipa": "/ɪkˈsplɔːr ˈdɪdʒɪtl ɑːrt ænd dɪˈzaɪn/",
+    "example": "People can explore digital art and design to express creativity and potentially build a portfolio. (Mọi người có thể khám phá nghệ thuật và thiết kế số để thể hiện sự sáng tạo và có thể xây dựng danh mục đầu tư.)"
+  },
+  {
+    "vn": "Thực hành chánh niệm và thiền",
+    "type": "phrase",
+    "en": "Practice mindfulness and meditation",
+    "ipa": "/ˈpræktɪs ˈmaɪndfʊlnəs ænd ˌmedɪˈteɪʃn/",
+    "example": "People can practice mindfulness and meditation to manage stress and improve focus. (Mọi người có thể thực hành chánh niệm và thiền để quản lý căng thẳng và cải thiện sự tập trung.)"
+  },
+  {
+    "vn": "Bắt đầu viết blog hoặc vlog",
+    "type": "phrase",
+    "en": "Start a blog or vlog",
+    "ipa": "/stɑːrt ə blɒɡ ɔːr vlɒɡ/",
+    "example": "People can start a blog or vlog to share experiences and connect with a wider audience. (Mọi người có thể bắt đầu viết blog hoặc vlog để chia sẻ trải nghiệm và kết nối với đông đảo mọi người.)"
+  },
+  {
+    "vn": "Phát triển kỹ năng lập trình",
+    "type": "phrase",
+    "en": "Develop coding skills",
+    "ipa": "/dɪˈveləp ˈkəʊdɪŋ skɪlz/",
+    "example": "People can develop coding skills through online courses and coding bootcamps. (Mọi người có thể phát triển kỹ năng lập trình thông qua các khóa học trực tuyến và trại huấn luyện lập trình.)"
+  },
+    {
+    "vn": "Tham gia viết sáng tạo",
+    "type": "phrase",
+    "en": "Engage in creative writing",
+    "ipa": "/ɪnˈɡeɪdʒ ɪn kriˈeɪtɪv ˈraɪtɪŋ/",
+    "example": "People can engage in creative writing to explore their thoughts and improve communication skills. (Mọi người có thể tham gia viết sáng tạo để khám phá suy nghĩ và cải thiện kỹ năng giao tiếp.)"
+  },
+    {
+    "vn": "Tham gia câu lạc bộ môi trường",
+    "type": "phrase",
+    "en": "Join environmental clubs",
+    "ipa": "/dʒɔɪn ɪnˌvaɪrənˈmentəl klʌbz/",
+    "example": "People can join environmental clubs to learn about sustainability and participate in green initiatives. (Mọi người có thể tham gia câu lạc bộ môi trường để tìm hiểu về bền vững và tham gia các sáng kiến xanh.)"
+  },
+    {
+    "vn": "Truy cập dịch vụ y tế trên khuôn viên trường",
+    "type": "phrase",
+    "en": "Access campus health services",
+    "ipa": "/ˈækses ˈkæmpəs helθ ˈsɜːrvɪsɪz/",
+    "example": "People can access campus health services to maintain good health during their studies. (Mọi người có thể truy cập dịch vụ y tế trên khuôn viên trường để duy trì sức khỏe tốt trong quá trình học tập.)"
+  },
+  {
+    "vn": "Tham gia chương trình chăm sóc sức khỏe",
+    "type": "phrase",
+    "en": "Participate in wellness programs",
+    "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈwelnəs ˈproʊɡræmz/",
+    "example": "People can participate in wellness programs to improve mental and physical health. (Mọi người có thể tham gia chương trình chăm sóc sức khỏe để cải thiện sức khỏe tinh thần và thể chất.)"
+  },
+  {
+    "vn": "Tham gia hoạt động thể chất",
+    "type": "phrase",
+    "en": "Engage in physical activities",
+    "ipa": "/ɪnˈɡeɪdʒ ɪn ˈfɪzɪkəl ækˈtɪvɪtiz/",
+    "example": "People can engage in physical activities like gym sessions or yoga classes to stay fit. (Mọi người có thể tham gia hoạt động thể chất như các buổi tập gym hoặc lớp yoga để giữ gìn sức khỏe.)"
+  },
+  {
+    "vn": "Theo dõi sức khỏe tâm thần",
+    "type": "phrase",
+    "en": "Monitor mental health",
+    "ipa": "/ˈmɒnɪtər ˈmentəl helθ/",
+    "example": "People can monitor mental health by using resources like counseling and therapy. (Mọi người có thể theo dõi sức khỏe tâm thần bằng cách sử dụng các nguồn tài nguyên như tư vấn và trị liệu.)"
+  },
+  {
+    "vn": "Phát triển thói quen ăn uống lành mạnh",
+    "type": "phrase",
+    "en": "Develop healthy eating habits",
+    "ipa": "/dɪˈveləp ˈhelθi ˈiːtɪŋ ˈhæbɪts/",
+    "example": "People can develop healthy eating habits by utilizing nutritional advice and planning meals. (Mọi người có thể phát triển thói quen ăn uống lành mạnh bằng cách sử dụng lời khuyên về dinh dưỡng và lập kế hoạch bữa ăn.)"
+  },
+  {
+    "vn": "Sử dụng các kỹ thuật quản lý căng thẳng",
+    "type": "phrase",
+    "en": "Use stress management techniques",
+    "ipa": "/juːz stres ˈmænɪdʒmənt tekˈniːks/",
+    "example": "People can use stress management techniques like meditation or time management to cope with university life. (Mọi người có thể sử dụng các kỹ thuật quản lý căng thẳng như thiền hoặc quản lý thời gian để đối phó với cuộc sống đại học.)"
+  },
+  {
+    "vn": "Tham gia câu lạc bộ sức khỏe và thể hình",
+    "type": "phrase",
+    "en": "Join health and fitness clubs",
+    "ipa": "/dʒɔɪn helθ ænd ˈfɪtnɪs klʌbz/",
+    "example": "People can join health and fitness clubs to find motivation and community support for maintaining health. (Mọi người có thể tham gia câu lạc bộ sức khỏe và thể hình để tìm kiếm động lực và sự hỗ trợ của cộng đồng để duy trì sức khỏe.)"
+  },
+    {
+    "vn": "Tham gia câu lạc bộ sức khỏe và thể hình",
+    "type": "phrase",
+    "en": "Join health and fitness clubs",
+    "ipa": "/dʒɔɪn helθ ænd ˈfɪtnɪs klʌbz/",
+    "example": "People can join health and fitness clubs to find motivation and community support for maintaining health. (Mọi người có thể tham gia câu lạc bộ sức khỏe và thể hình để tìm kiếm động lực và sự hỗ trợ của cộng đồng để duy trì sức khỏe.)"
+  },
+  {
+    "vn": "Thực hành vệ sinh giấc ngủ",
+    "type": "phrase",
+    "en": "Practice sleep hygiene",
+    "ipa": "/ˈpræktɪs sliːp ˈhaɪdʒiːn/",
+    "example": "People can practice sleep hygiene to enhance sleep quality and academic performance. (Mọi người có thể thực hành vệ sinh giấc ngủ để nâng cao chất lượng giấc ngủ và hiệu suất học tập.)"
+  },
+  {
+    "vn": "Đấu tranh cho quyền sức khỏe sinh viên",
+    "type": "phrase",
+    "en": "Advocate for student health rights",
+    "ipa": "/ˈædvəkeɪt fɔːr ˈstjuːdnt helθ raɪts/",
+    "example": "People can advocate for student health rights to ensure access to necessary medical services on campus. (Mọi người có thể đấu tranh cho quyền sức khỏe sinh viên để đảm bảo truy cập các dịch vụ y tế cần thiết trên khuôn viên trường.)"
+  },
+  {
+    "vn": "Tìm hiểu về các tùy chọn bảo hiểm sức khỏe",
+    "type": "phrase",
+    "en": "Learn about health insurance options",
+    "ipa": "/lɜːrn əˈbaʊt helθ ɪnˈʃʊərəns ˈɒpʃnz/",
+    "example": "People can learn about health insurance options to make informed decisions about their coverage. (Mọi người có thể tìm hiểu về các tùy chọn bảo hiểm sức khỏe để đưa ra quyết định sáng suốt về bảo hiểm của mình.)"
+  } 
 ]
