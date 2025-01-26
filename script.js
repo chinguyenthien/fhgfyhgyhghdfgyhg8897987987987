@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const deleteButton = document.getElementById('deleteA');
     const nextQuesButton = document.getElementById('nextQues');
     const exampleButton = document.getElementById('example'); // Thêm nút Example
+    const progressText = document.getElementById('progress'); // Thêm phần tử để hiển thị số từ đã học
 
     let wordsList = [];
     let shuffledIndices = [];
@@ -21,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
             wordsList = data;
             shuffleIndices();
             loadWord();
+            updateProgress();
         });
 
     function shuffleIndices() {
@@ -34,6 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function loadWord() {
         if (currentIndex >= shuffledIndices.length) {
+            alert("You have completed all the words!");
             shuffleIndices();
         }
         const word = wordsList[shuffledIndices[currentIndex]];
@@ -42,6 +45,11 @@ document.addEventListener('DOMContentLoaded', () => {
         resizeTextarea(vnField);
         resizeTextarea(enField);
         currentIndex++;
+        updateProgress();
+    }
+
+    function updateProgress() {
+        progressText.textContent = `Words learned: ${currentIndex} / ${wordsList.length}`;
     }
 
     function resizeTextarea(textarea) {
@@ -55,3 +63,53 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Submit button click event
     submitButton.addEventListener('click', () => {
+        const vnValue = vnField.value;
+        const enValue = enField.value.toLowerCase().trim();
+        const word = wordsList.find(w => w.vn === vnValue);
+
+        if (word && word.en.toLowerCase() === enValue) {
+            message.style.color = 'green';
+            message.innerHTML = `Correct! <br> IPA: ${word.ipa}`;
+            loadWord();
+        } else {
+            message.style.color = 'red';
+            message.textContent = 'Incorrect, try again.';
+        }
+    });
+
+    // Hint button click event
+    hintButton.addEventListener('click', () => {
+        const vnValue = vnField.value;
+        const word = wordsList.find(w => w.vn === vnValue);
+        if (word) {
+            enField.value = word.en;
+            resizeTextarea(enField);
+        }
+    });
+
+    // Delete button click event
+    deleteButton.addEventListener('click', () => {
+        enField.value = '';
+        message.textContent = '';
+        exampleText.textContent = ''; // Clear the example text
+        resizeTextarea(enField);
+    });
+
+    // Next Question button click event
+    nextQuesButton.addEventListener('click', () => {
+        loadWord();
+        enField.value = ''; // Clear the English input field
+        message.textContent = ''; // Clear the message
+        exampleText.textContent = ''; // Clear the example text
+        resizeTextarea(enField);
+    });
+
+    // Example button click event
+    exampleButton.addEventListener('click', () => {
+        const vnValue = vnField.value;
+        const word = wordsList.find(w => w.vn === vnValue);
+        if (word) {
+            exampleText.textContent = `Example: ${word.example}`;
+        }
+    });
+});
