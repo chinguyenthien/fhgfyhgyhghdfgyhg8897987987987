@@ -5,7 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const message = document.getElementById('message');
     const submitButton = document.getElementById('submit');
     const hintButton = document.getElementById('goiy');
-    const editButton = document.getElementById('edit');
     const deleteButton = document.getElementById('deleteA');
     const nextQuesButton = document.getElementById('nextQues');
 
@@ -62,11 +61,6 @@ document.addEventListener('DOMContentLoaded', () => {
             enField.value = word.en;
             resizeTextarea(enField);
         }
-    });
-
-    // Edit button click event
-    editButton.addEventListener('click', () => {
-        window.location.href = 'edit.html';
     });
 
     // Delete button click event
