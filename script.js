@@ -3,10 +3,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const typeField = document.getElementById('type');
     const enField = document.getElementById('en');
     const message = document.getElementById('message');
+    const exampleText = document.getElementById('exampleText'); // Thêm phần tử để hiển thị ví dụ
     const submitButton = document.getElementById('submit');
     const hintButton = document.getElementById('goiy');
     const deleteButton = document.getElementById('deleteA');
     const nextQuesButton = document.getElementById('nextQues');
+    const exampleButton = document.getElementById('example'); // Thêm nút Example
 
     let wordsList = [];
 
@@ -67,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
     deleteButton.addEventListener('click', () => {
         enField.value = '';
         message.textContent = '';
+        exampleText.textContent = ''; // Clear the example text
         resizeTextarea(enField);
     });
 
@@ -75,6 +78,16 @@ document.addEventListener('DOMContentLoaded', () => {
         loadRandomWord();
         enField.value = ''; // Clear the English input field
         message.textContent = ''; // Clear the message
+        exampleText.textContent = ''; // Clear the example text
         resizeTextarea(enField);
+    });
+
+    // Example button click event
+    exampleButton.addEventListener('click', () => {
+        const vnValue = vnField.value;
+        const word = wordsList.find(w => w.vn === vnValue);
+        if (word) {
+            exampleText.textContent = `Example: ${word.example}`;
+        }
     });
 });
