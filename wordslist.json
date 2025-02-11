@@ -980,5 +980,425 @@
     "en": "Learn about health insurance options",
     "ipa": "/lɜːrn əˈbaʊt helθ ɪnˈʃʊərəns ˈɒpʃnz/",
     "example": "People can learn about health insurance options to make informed decisions about their coverage. (Mọi người có thể tìm hiểu về các tùy chọn bảo hiểm sức khỏe để đưa ra quyết định sáng suốt về bảo hiểm của mình.)"
-  } 
+  },
+   {
+    "vn": "Khuyến khích sự tham gia",
+    "type": "verb phrase",
+    "en": "Encourage participation",
+    "ipa": "[ɪnˈkʌrɪdʒ pɑːrˌtɪsɪˈpeɪʃən]",
+    "example": "Schools should encourage participation in extracurricular activities. (Các trường học nên khuyến khích sự tham gia vào các hoạt động ngoại khóa)"
+  },
+  {
+    "vn": "Tham gia vào các cuộc thảo luận",
+    "type": "verb phrase",
+    "en": "Engage in discussions",
+    "ipa": "[ɪnˈɡeɪdʒ ɪn dɪˈskʌʃənz]",
+    "example": "Students should actively engage in discussions in class. (Học sinh nên tích cực tham gia vào các cuộc thảo luận trong lớp)"
+  },
+  {
+    "vn": "Đảm bảo thành công",
+    "type": "verb phrase",
+    "en": "Ensure success",
+    "ipa": "[ɪnˈʃʊr səkˈses]",
+    "example": "Proper planning ensures success in any project. (Lập kế hoạch đúng đắn đảm bảo thành công trong bất kỳ dự án nào)"
+  },
+  {
+    "vn": "Mở rộng kiến thức",
+    "type": "verb phrase",
+    "en": "Expand knowledge",
+    "ipa": "[ɪkˈspænd ˈnɒlɪdʒ]",
+    "example": "Reading different books helps expand knowledge. (Đọc sách khác nhau giúp mở rộng kiến thức)"
+  },
+  {
+    "vn": "Đối mặt với thử thách",
+    "type": "verb phrase",
+    "en": "Face challenges",
+    "ipa": "[feɪs ˈtʃælɪndʒɪz]",
+    "example": "Entrepreneurs must be ready to face challenges in business. (Doanh nhân phải sẵn sàng đối mặt với những thách thức trong kinh doanh)"
+  },
+  {
+    "vn": "Tìm sự cân bằng",
+    "type": "verb phrase",
+    "en": "Find a balance",
+    "ipa": "[faɪnd ə ˈbæləns]",
+    "example": "It's important to find a balance between work and life. (Điều quan trọng là tìm sự cân bằng giữa công việc và cuộc sống)"
+  },
+  {
+    "vn": "Có được kinh nghiệm",
+    "type": "verb phrase",
+    "en": "Gain experience",
+    "ipa": "[ɡeɪn ɪkˈspɪəriəns]",
+    "example": "Internships help students gain experience in their field. (Thực tập giúp sinh viên có được kinh nghiệm trong lĩnh vực của họ)"
+  },
+  {
+    "vn": "Xử lý áp lực",
+    "type": "verb phrase",
+    "en": "Handle pressure",
+    "ipa": "[ˈhændl ˈpreʃər]",
+    "example": "Doctors need to handle pressure well in emergency situations. (Bác sĩ cần xử lý tốt áp lực trong các tình huống khẩn cấp)"
+  },
+  {
+    "vn": "Có ảnh hưởng đến",
+    "type": "verb phrase",
+    "en": "Have an impact on",
+    "ipa": "[hæv ən ˈɪmpækt ɒn]",
+    "example": "Climate change has an impact on agriculture. (Biến đổi khí hậu có ảnh hưởng đến nông nghiệp)"
+  },
+  {
+    "vn": "Cải thiện hiệu quả",
+    "type": "verb phrase",
+    "en": "Improve efficiency",
+    "ipa": "[ɪmˈpruːv ɪˈfɪʃənsi]",
+    "example": "Technology improves efficiency in communication. (Công nghệ cải thiện hiệu quả trong giao tiếp)"
+  },
+  {
+    "vn": "Nâng cao nhận thức",
+    "type": "verb phrase",
+    "en": "Increase awareness",
+    "ipa": "[ɪnˈkriːs əˈweərnəs]",
+    "example": "Campaigns help increase awareness about environmental protection. (Các chiến dịch giúp nâng cao nhận thức về bảo vệ môi trường)"
+  },
+  {
+    "vn": "Dành thời gian vào",
+    "type": "verb phrase",
+    "en": "Invest time in",
+    "ipa": "[ɪnˈvest taɪm ɪn]",
+    "example": "Students should invest time in self-study. (Sinh viên nên dành thời gian cho việc tự học)"
+  },
+  {
+    "vn": "Học từ sai lầm",
+    "type": "verb phrase",
+    "en": "Learn from mistakes",
+    "ipa": "[lɜːrn frɒm mɪˈsteɪks]",
+    "example": "Making mistakes is a way to learn from experience. (Phạm sai lầm là một cách để học hỏi từ kinh nghiệm)"
+  },
+  {
+    "vn": "Đưa ra quyết định",
+    "type": "verb phrase",
+    "en": "Make a decision",
+    "ipa": "[meɪk ə dɪˈsɪʒən]",
+    "example": "It's important to make a decision based on facts. (Điều quan trọng là đưa ra quyết định dựa trên sự kiện)"
+  },
+  {
+    "vn": "Quản lý tài nguyên",
+    "type": "verb phrase",
+    "en": "Manage resources",
+    "ipa": "[ˈmænɪdʒ rɪˈsɔːrsɪz]",
+    "example": "Companies must learn to manage resources efficiently. (Các công ty phải học cách quản lý tài nguyên hiệu quả)"
+  }, 
+  {
+        "vn": "Thích nghi với sự thay đổi",
+        "type": "verb phrase",
+        "en": "Adapt to changes",
+        "ipa": "[əˈdæpt tuː ˈʧeɪndʒɪz]",
+        "example": "Students must adapt to changes in learning methods [Học sinh phải thích nghi với những thay đổi trong phương pháp học tập]"
+    },
+    {
+        "vn": "Giải quyết một vấn đề",
+        "type": "verb phrase",
+        "en": "Address an issue",
+        "ipa": "[əˈdres ən ˈɪʃuː]",
+        "example": "The government needs to address the issue of pollution [Chính phủ cần giải quyết vấn đề ô nhiễm]"
+    },
+    {
+        "vn": "Áp dụng cách tiếp cận mới",
+        "type": "verb phrase",
+        "en": "Adopt a new approach",
+        "ipa": "[əˈdɒpt ə njuː əˈprəʊʧ]",
+        "example": "The company adopted a new approach to marketing [Công ty đã áp dụng một phương pháp tiếp cận mới cho tiếp thị]"
+    },
+    {
+        "vn": "Ảnh hưởng đến quá trình ra quyết định",
+        "type": "verb phrase",
+        "en": "Affect decision-making",
+        "ipa": "[əˈfekt dɪˈsɪʒən ˈmeɪkɪŋ]",
+        "example": "Emotions can affect decision-making in stressful situations [Cảm xúc có thể ảnh hưởng đến quá trình ra quyết định trong các tình huống căng thẳng]"
+    },
+    {
+        "vn": "Tăng năng suất",
+        "type": "verb phrase",
+        "en": "Boost productivity",
+        "ipa": "[buːst prəʊdəkˈtɪvɪti]",
+        "example": "Flexible working hours can boost productivity [Giờ làm việc linh hoạt có thể tăng năng suất]"
+    },
+    {
+        "vn": "Mở rộng tầm nhìn",
+        "type": "verb phrase",
+        "en": "Broaden horizons",
+        "ipa": "[ˈbrɔːdn həˈraɪznz]",
+        "example": "Traveling abroad helps students broaden their horizons [Du lịch nước ngoài giúp sinh viên mở rộng tầm nhìn]"
+    },
+    {
+        "vn": "Chịu trách nhiệm",
+        "type": "verb phrase",
+        "en": "Carry responsibility",
+        "ipa": "[ˈkæri rɪˌspɒnsəˈbɪlɪti]",
+        "example": "Teachers carry a great responsibility in educating students [Giáo viên mang một trách nhiệm lớn trong việc giáo dục học sinh]"
+    },
+    {
+        "vn": "Đối phó với căng thẳng",
+        "type": "verb phrase",
+        "en": "Cope with stress",
+        "ipa": "[kəʊp wɪð stres]",
+        "example": "Regular exercise helps people cope with stress [Tập thể dục thường xuyên giúp mọi người đối phó với căng thẳng]"
+    },
+    {
+        "vn": "Tạo ra cơ hội",
+        "type": "verb phrase",
+        "en": "Create opportunities",
+        "ipa": "[kriˈeɪt ˌɒpəˈtjuːnɪtiz]",
+        "example": "Education creates opportunities for a better future [Giáo dục tạo ra cơ hội cho một tương lai tốt đẹp hơn]"
+    },
+    {
+        "vn": "Nuôi dưỡng thói quen tốt",
+        "type": "verb phrase",
+        "en": "Cultivate good habits",
+        "ipa": "[ˈkʌltɪveɪt ɡʊd ˈhæbɪts]",
+        "example": "Parents should help children cultivate good habits from a young age [Cha mẹ nên giúp con cái nuôi dưỡng những thói quen tốt từ khi còn nhỏ]"
+    },
+    {
+        "vn": "Thể hiện kỹ năng",
+        "type": "verb phrase",
+        "en": "Demonstrate skills",
+        "ipa": "[ˈdemənstreɪt skɪlz]",
+        "example": "Candidates must demonstrate their skills in the interview [Ứng viên phải thể hiện được kỹ năng của mình trong buổi phỏng vấn]"
+    },
+    {
+        "vn": "Phát triển chiến lược",
+        "type": "verb phrase",
+        "en": "Develop a strategy",
+        "ipa": "[dɪˈveləp ə ˈstrætədʒi]",
+        "example": "Businesses need to develop a strategy to increase sales [Các doanh nghiệp cần phát triển một chiến lược để tăng doanh số]"
+    },
+    {
+        "vn": "Nhấn mạnh tầm quan trọng",
+        "type": "verb phrase",
+        "en": "Emphasize the importance",
+        "ipa": "[ˈemfəsaɪz ðiː ɪmˈpɔːtəns]",
+        "example": "Teachers emphasize the importance of reading every day [Giáo viên nhấn mạnh tầm quan trọng của việc đọc sách mỗi ngày]"
+    },
+    {
+    "vn": "Đáp ứng mong đợi",
+    "type": "verb phrase",
+    "en": "Meet expectations",
+    "ipa": "[miːt ˌɛkspɛkˈteɪʃənz]",
+    "example": "The new product meets customer expectations. [Sản phẩm mới đáp ứng mong đợi của khách hàng.]"
+  },
+  {
+    "vn": "Vượt qua trở ngại",
+    "type": "verb phrase",
+    "en": "Overcome obstacles",
+    "ipa": "[ˌoʊvərˈkʌm ˈɑːbstəkəlz]",
+    "example": "Hard work helps overcome obstacles in life. [Sự chăm chỉ giúp vượt qua những trở ngại trong cuộc sống.]"
+  },
+  {
+    "vn": "Thúc đẩy sự sáng tạo",
+    "type": "verb phrase",
+    "en": "Promote creativity",
+    "ipa": "[prəˈmoʊt kriˌeɪˈtɪvəti]",
+    "example": "Art classes promote creativity among students. [Các lớp học nghệ thuật thúc đẩy sự sáng tạo trong học sinh.]"
+  },
+  {
+    "vn": "Nêu lên mối quan ngại",
+    "type": "verb phrase",
+    "en": "Raise concerns",
+    "ipa": "[reɪz kənˈsɜːrnz]",
+    "example": "Many people raise concerns about air pollution. [Nhiều người bày tỏ mối quan ngại về ô nhiễm không khí.]"
+  },
+  {
+    "vn": "Giảm sự phụ thuộc",
+    "type": "verb phrase",
+    "en": "Reduce dependency",
+    "ipa": "[rɪˈdʒuːs dɪˈpendənsi]",
+    "example": "Renewable energy can reduce dependency on fossil fuels. [Năng lượng tái tạo có thể giảm sự phụ thuộc vào nhiên liệu hóa thạch.]"
+  },
+  {
+    "vn": "Suy ngẫm về hiệu suất",
+    "type": "verb phrase",
+    "en": "Reflect on performance",
+    "ipa": "[rɪˈflekt ɑːn pərˈfɔːrməns]",
+    "example": "Employees should reflect on performance to improve skills. [Nhân viên nên suy ngẫm về hiệu suất làm việc để cải thiện kỹ năng.]"
+  },
+  {
+    "vn": "Phản hồi lời phê bình",
+    "type": "verb phrase",
+    "en": "Respond to criticism",
+    "ipa": "[rɪˈspɑːnd tuː ˈkrɪtɪsɪzəm]",
+    "example": "It's important to respond to criticism constructively. [Điều quan trọng là phản hồi lời phê bình một cách xây dựng.]"
+  },
+  {
+    "vn": "Đặt mục tiêu thực tế",
+    "type": "verb phrase",
+    "en": "Set realistic goals",
+    "ipa": "[set rɪəˈlɪstɪk ɡoʊlz]",
+    "example": "Students should set realistic goals for their studies. [Học sinh nên đặt ra những mục tiêu thực tế cho việc học của mình.]"
+  },
+  {
+    "vn": "Mài dũa kỹ năng",
+    "type": "verb phrase",
+    "en": "Sharpen skills",
+    "ipa": "[ˈʃɑːrpən skɪlz]",
+    "example": "Continuous practice helps sharpen skills in any field. [Việc luyện tập liên tục giúp cải thiện kỹ năng trong mọi lĩnh vực.]"
+  },
+  {
+    "vn": "Củng cố mối quan hệ",
+    "type": "verb phrase",
+    "en": "Strengthen relationships",
+    "ipa": "[ˈstrenθən rɪˈleɪʃnʃɪps]",
+    "example": "Spending time together strengthens relationships. [Dành thời gian bên nhau giúp củng cố các mối quan hệ.]"
+  },
+  {
+    "vn": "Chủ động",
+    "type": "verb phrase",
+    "en": "Take initiative",
+    "ipa": "[teɪk ɪˈnɪʃətɪv]",
+    "example": "Employees should take initiative to solve problems. [Nhân viên nên chủ động giải quyết vấn đề.]"
+  },
+     {
+    "vn": "Giải quyết vấn đề",
+    "type": "verb phrase",
+    "en": "Tackle a problem",
+    "ipa": "[ˈtækəl ə ˈprɒbləm]",
+    "example": "Scientists are tackling the problem of global warming. (Các nhà khoa học đang giải quyết vấn đề nóng lên toàn cầu.)"
+  },
+  {
+    "vn": "Suy nghĩ phản biện",
+    "type": "verb phrase",
+    "en": "Think critically",
+    "ipa": "[θɪŋk ˈkrɪtɪkli]",
+    "example": "Students must learn to think critically in academic writing. (Học sinh phải học cách suy nghĩ phản biện trong việc viết học thuật.)"
+  },
+  {
+    "vn": "Cải thiện kỹ năng làm việc nhóm",
+    "type": "verb phrase",
+    "en": "Enhance teamwork",
+    "ipa": "[ɪnˈhæns ˈtiːmwɜːk]",
+    "example": "Group projects help students enhance teamwork. (Các dự án nhóm giúp học sinh cải thiện kỹ năng làm việc nhóm.)"
+  },
+  {
+    "vn": "Phân tích thông tin",
+    "type": "verb phrase",
+    "en": "Analyze information",
+    "ipa": "[ˈænəlaɪz ˌɪnfəˈmeɪʃən]",
+    "example": "Journalists must analyze information carefully before publishing. (Nhà báo phải phân tích thông tin cẩn thận trước khi xuất bản.)"
+  },
+  {
+    "vn": "Tiếp thu kỹ năng mới",
+    "type": "verb phrase",
+    "en": "Acquire new skills",
+    "ipa": "[əˈkwaɪər njuː skɪlz]",
+    "example": "Online courses help people acquire new skills. (Các khóa học trực tuyến giúp mọi người tiếp thu kỹ năng mới.)"
+  },
+  {
+    "vn": "Phát triển tính kỷ luật bản thân",
+    "type": "verb phrase",
+    "en": "Develop self-discipline",
+    "ipa": "[dɪˈveləp self ˈdɪsɪplɪn]",
+    "example": "Successful students develop self-discipline in their studies. (Những học sinh thành công thường phát triển tính kỷ luật trong học tập.)"
+  },
+  {
+    "vn": "Mở rộng góc nhìn",
+    "type": "verb phrase",
+    "en": "Broaden perspectives",
+    "ipa": "[ˈbrɔːdn pərˈspektɪvz]",
+    "example": "Reading books can broaden perspectives on different cultures. (Đọc sách có thể mở rộng góc nhìn về các nền văn hóa khác nhau.)"
+  },
+  {
+    "vn": "Đưa ra quyết định sáng suốt",
+    "type": "verb phrase",
+    "en": "Make informed decisions",
+    "ipa": "[meɪk ɪnˈfɔːrmd dɪˈsɪʒənz]",
+    "example": "People should make informed decisions based on facts. (Mọi người nên đưa ra quyết định sáng suốt dựa trên sự thật.)"
+  },
+  {
+    "vn": "Cải thiện khả năng thích nghi",
+    "type": "verb phrase",
+    "en": "Improve adaptability",
+    "ipa": "[ɪmˈpruːv əˌdæptəˈbɪləti]",
+    "example": "Employees must improve adaptability to succeed in a changing work environment. (Nhân viên phải cải thiện khả năng thích nghi để thành công trong môi trường làm việc thay đổi.)"
+  },
+  {
+    "vn": "Hỗ trợ giao tiếp",
+    "type": "verb phrase",
+    "en": "Facilitate communication",
+    "ipa": "[fəˈsɪlɪteɪt kəˌmjuːnɪˈkeɪʃən]",
+    "example": "Technology helps facilitate communication between people in different countries. (Công nghệ giúp hỗ trợ giao tiếp giữa những người ở các quốc gia khác nhau.)"
+  },
+     {
+    "vn": "Vượt qua khó khăn",
+    "type": "verb phrase",
+    "en": "Overcome difficulties",
+    "ipa": "[ˌoʊvərˈkʌm ˈdɪfɪkəltiz]",
+    "example": "With determination, people can overcome difficulties in life. (Với sự quyết tâm, con người có thể vượt qua khó khăn trong cuộc sống.)"
+  },
+  {
+    "vn": "Thích nghi với môi trường mới",
+    "type": "verb phrase",
+    "en": "Adapt to new environments",
+    "ipa": "[əˈdæpt tuː njuː ɪnˈvaɪrənmənts]",
+    "example": "Studying abroad requires students to adapt to new environments. (Du học yêu cầu sinh viên phải thích nghi với môi trường mới.)"
+  },
+  {
+    "vn": "Đạt được mục tiêu",
+    "type": "verb phrase",
+    "en": "Achieve a goal",
+    "ipa": "[əˈtʃiːv ə ɡoʊl]",
+    "example": "Hard work and dedication help people achieve their goals. (Làm việc chăm chỉ và cống hiến giúp con người đạt được mục tiêu của họ.)"
+  },
+  {
+    "vn": "Mở rộng mối quan hệ xã hội",
+    "type": "verb phrase",
+    "en": "Broaden social networks",
+    "ipa": "[ˈbrɔːdn ˈsoʊʃəl ˈnetwɜːrks]",
+    "example": "Attending international conferences helps broaden social networks. (Tham gia các hội nghị quốc tế giúp mở rộng mối quan hệ xã hội.)"
+  },
+  {
+    "vn": "Cải thiện khả năng ngôn ngữ",
+    "type": "verb phrase",
+    "en": "Enhance language proficiency",
+    "ipa": "[ɪnˈhæns ˈlæŋɡwɪdʒ prəˈfɪʃənsi]",
+    "example": "Reading English books helps enhance language proficiency. (Đọc sách tiếng Anh giúp cải thiện khả năng ngôn ngữ.)"
+  },
+  {
+    "vn": "Cải thiện kỹ năng giải quyết vấn đề",
+    "type": "verb phrase",
+    "en": "Improve problem-solving skills",
+    "ipa": "[ɪmˈpruːv ˈprɒbləm ˈsɒlvɪŋ skɪlz]",
+    "example": "Playing chess improves problem-solving skills. (Chơi cờ vua giúp cải thiện kỹ năng giải quyết vấn đề.)"
+  },
+  {
+    "vn": "Hiểu biết sâu sắc hơn",
+    "type": "verb phrase",
+    "en": "Gain a deeper understanding",
+    "ipa": "[ɡeɪn ə ˈdiːpər ˌʌndərˈstændɪŋ]",
+    "example": "Researching history helps gain a deeper understanding of past events. (Nghiên cứu lịch sử giúp có được sự hiểu biết sâu sắc hơn về các sự kiện trong quá khứ.)"
+  },
+     {
+    "vn": "Khuyến khích tự học",
+    "type": "verb phrase",
+    "en": "Promote independent learning",
+    "ipa": "[prəˈmoʊt ˌɪndɪˈpɛndənt ˈlɜrnɪŋ]",
+    "example": "Online courses promote independent learning among students. (Các khóa học trực tuyến khuyến khích việc tự học ở học sinh.)"
+  },
+  {
+    "vn": "Tạo ra ảnh hưởng tích cực",
+    "type": "verb phrase",
+    "en": "Make a positive impact",
+    "ipa": "[meɪk ə ˈpɑzətɪv ˈɪmpækt]",
+    "example": "Volunteering makes a positive impact on the community. (Làm tình nguyện tạo ra ảnh hưởng tích cực đến cộng đồng.)"
+  },
+  {
+    "vn": "Phát triển phẩm chất lãnh đạo",
+    "type": "verb phrase",
+    "en": "Develop leadership qualities",
+    "ipa": "[dɪˈveləp ˈliːdərʃɪp ˈkwɑlətiz]",
+    "example": "Managing a project helps develop leadership qualities. (Quản lý một dự án giúp phát triển phẩm chất lãnh đạo.)"
+  },
+    {
+    "vn": "Cảm thấy lo lắng trước sự kiện",
+    "type": "verb phrase",
+    "en": " Feel nervous before an event",
+    "ipa": "[ /fiːlˈnɜːvəsbɪˈfɔːrən ɪˈvɛnt/]",
+    "example": " People can feel nervous before an event like a big presentation (Mọi người có thể cảm thấy lo lắng trước một sự kiện như bài thuyết trình lớn.)"
+  },  
 ]
