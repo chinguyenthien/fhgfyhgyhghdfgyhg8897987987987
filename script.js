@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Submit button click event
     submitButton.addEventListener('click', () => {
         const vnValue = vnField.value;
-        const enValue = enField.value.toLowerCase().trim();
+        const enValue = enField.value.toLowerCase().trim().replace(/\s+/g, ' ');
         const word = wordsList.find(w => w.vn === vnValue);
 
         if (word && word.en.toLowerCase() === enValue) {
