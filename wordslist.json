@@ -217,23 +217,23 @@
     "example": ""
   },
   {
-    "vn": "Nỗ lực",
+    "vn": "Nỗ lực để làm gì + verb",
     "type": "verb phrase",
-    "en": "Make an effort to",
+    "en": "Make an effort to verb",
     "ipa": "/meɪk ən ˈefərt tuː/",
-    "example": ""
+    "example": "Make an effort to learn the local language  [Hãy nỗ lực học tiếng bản xứ]"
   },
   {
-    "vn": "Đóng vai trò quan trọng",
+    "vn": "(noun cái gì đó ) + Đóng vai trò quan trọng",
     "type": "verb phrase",
     "en": "Play an important role",
     "ipa": "/pleɪ ən ɪmˈpɔːrtənt roʊl/",
-    "example": ""
+    "example": "Computers play an important role, especially for program trading. [máy tính có vai trò rất quan trọng, đặc biệt là trong giao dịch điện tử.]"
   },
   {
-    "vn": "Nguồn giải trí",
+    "vn": "một Nguồn giải trí không giới hạn",
     "type": "noun phrase",
-    "en": "A source of entertainment",
+    "en": "an unlimited source of entertainment",
     "ipa": "/ə sɔːrs əv ˌentərˈteɪnmənt/",
     "example": ""
   },
@@ -287,25 +287,11 @@
     "example": ""
   },
   {
-    "vn": "Đặt nó là ưu tiên của tôi",
-    "type": "verb phrase",
-    "en": "Make it a priority for me",
-    "ipa": "/meɪk ɪt ə praɪˈɔːrəti fɔːr miː/",
-    "example": ""
-  },
-  {
-    "vn": "Một phần trong lịch trình hàng ngày của tôi",
-    "type": "noun phrase",
-    "en": "A part of my routine",
-    "ipa": "/ə ˈpɑːrt əv maɪ ruːˈtiːn/",
-    "example": ""
-  },
-  {
-    "vn": "Cập nhật thông tin",
+    "vn": "Cập nhật thông tin về điều gì đó (n)",
     "type": "verb phrase",
     "en": "Keep updated with",
     "ipa": "/kiːp ʌpˈdeɪtɪd wɪθ/",
-    "example": ""
+    "example": "keep updated with technology news [cập nhật thông tin về công nghệ]"
   },
   {
     "vn": "Mua hàng thiết yếu",
@@ -319,13 +305,6 @@
     "type": "verb phrase",
     "en": "Spend much time on something",
     "ipa": "/spend mʌtʃ taɪm ɒn/",
-    "example": ""
-  },
-  {
-    "vn": "Hoàn thành đúng hạn",
-    "type": "verb phrase",
-    "en": "Meet the deadlines",
-    "ipa": "/miːt ðə ˈdedlaɪnz/",
     "example": ""
   },
   {
@@ -350,13 +329,6 @@
     "example": ""
   },
   {
-    "vn": "Tôi vô vọng/khủng khiếp ở điều gì đó",
-    "type": "phrase",
-    "en": "I'm hopeless/terrible at sth",
-    "ipa": "/aɪm ˈhəʊpləs/ˈterəbl æt/",
-    "example": "E.g., I'm hopeless at playing the piano. [Tôi hoàn toàn bất lực khi chơi đàn piano]"
-  },
-  {
     "vn": "Tôi hoàn toàn không đồng ý với",
     "type": "phrase",
     "en": "I strongly disagree with",
@@ -364,11 +336,11 @@
     "example": "E.g., I strongly disagree with your opinion on the matter. [Tôi hoàn toàn không đồng ý với quan điểm của bạn về vấn đề này.]"
   },
   {
-    "vn": "Tôi thấy thật khó để làm điều gì đó",
+    "vn": "Thấy thật khó để làm điều gì đó ",
     "type": "phrase",
-    "en": "I find it difficult to do sth",
+    "en": "find it difficult to ",
     "ipa": "/aɪ faɪnd ɪt ˈdɪfɪkəlt tuː duː/",
-    "example": "E.g., I find it difficult to understand complex mathematical problems. [Tôi thấy khó hiểu các bài toán phức tạp.]"
+    "example": "many people do find it very difficult to put faith in anyone’s promises. [một số người thấy thật khó đặt lòng tin vào lời hứa của người khác"
   },
   {
     "vn": "Có tâm trạng tồi tệ",
@@ -425,13 +397,6 @@
     "en": "Waste time and money",
     "ipa": "/weɪst taɪm ənd ˈmʌni/",
     "example": "E.g., Don't waste your time on activities that don't contribute to your goals. [Đừng lãng phí thời gian vào những hoạt động không đóng góp vào mục tiêu của bạn.]"
-  },
-  {
-    "vn": "Đắm mình trong truyền thống địa phương",
-    "type": "phrase",
-    "en": "Immerse in local traditions",
-    "ipa": "/ɪˈmɜrs ɪn ˈloʊkəl trəˈdɪʃənz/",
-    "example": "People can immerse in local traditions to understand diverse lifestyles. (Mọi người có thể đắm mình trong truyền thống địa phương để hiểu các lối sống đa dạng.)"
   },
   {
     "vn": "Trải nghiệm các lễ hội văn hóa",
@@ -567,13 +532,6 @@
     "example": "People can relax on the beach to unwind and soak up the sun. (Mọi người có thể thư giãn trên bãi biển để thư giãn và tắm nắng.)"
   },
   {
-    "vn": "Khám phá ẩm thực mới",
-    "type": "phrase",
-    "en": "Discover new cuisines",
-    "ipa": "/dɪˈskʌvər njuː kwɪˈziːnz/",
-    "example": "People can discover new cuisines to expand their culinary horizons. (Mọi người có thể khám phá ẩm thực mới để mở rộng chân trời ẩm thực của họ.)"
-  },
-  {
     "vn": "Tham gia thể thao mạo hiểm",
     "type": "phrase",
     "en": "Take part in adventure sports",
@@ -609,39 +567,11 @@
     "example": "People can participate in eco-tours to learn about sustainability and conservation. (Mọi người có thể tham gia các tour du lịch sinh thái để tìm hiểu về bền vững và bảo tồn.)"
   },
   {
-    "vn": "Tận hưởng các liệu pháp spa",
-    "type": "phrase",
-    "en": "Indulge in spa treatments",
-    "ipa": "/ɪnˈdʌldʒ ɪn spɑː ˈtriːtmənts/",
-    "example": "People can indulge in spa treatments to rejuvenate and refresh themselves. (Mọi người có thể tận hưởng các liệu pháp spa để làm mới mình và nạp lại năng lượng.)"
-  },
-  {
-    "vn": "Đặt phòng khách sạn sang trọng",
-    "type": "phrase",
-    "en": "Book luxury accommodations",
-    "ipa": "/bʊk ˈlʌkʃəri əˌkɒməˈdeɪʃənz/",
-    "example": "People can book luxury accommodations for a comfortable and pampered stay. (Mọi người có thể đặt phòng khách sạn sang trọng để có một kỳ nghỉ thoải mái và được chăm sóc tận tình.)"
-  },
-  {
     "vn": "Khám phá xu hướng thời trang",
     "type": "phrase",
     "en": "Explore fashion trends",
     "ipa": "/ɪkˈsplɔːr ˈfæʃən trendz/",
     "example": "People can explore fashion trends to stay updated with the latest styles. (Mọi người có thể khám phá xu hướng thời trang để cập nhật những phong cách mới nhất.)"
-  },
-  {
-    "vn": "Mặc quần áo của nhà thiết kế",
-    "type": "phrase",
-    "en": "Wear designer clothes",
-    "ipa": "/wer dɪˈzaɪnər kləʊðz/",
-    "example": "People can wear designer clothes to express their personal style. (Mọi người có thể mặc quần áo của nhà thiết kế để thể hiện phong cách cá nhân của họ.)"
-  },
-  {
-    "vn": "Tham dự các buổi trình diễn thời trang",
-    "type": "phrase",
-    "en": "Attend fashion shows",
-    "ipa": "/əˈtend ˈfæʃən ʃəʊz/",
-    "example": "People can attend fashion shows to see new collections and meet designers. (Mọi người có thể tham dự các buổi trình diễn thời trang để xem các bộ sưu tập mới và gặp gỡ các nhà thiết kế.)"
   },
   {
     "vn": "Tùy chỉnh trang phục",
@@ -679,16 +609,16 @@
     "example": "People can develop a personal style that reflects their identity and preferences. (Mọi người có thể phát triển phong cách cá nhân phản ánh danh tính và sở thích của họ.)"
   },
   {
-    "vn": "Đầu tư vào tủ quần áo chất lượng",
+    "vn": "Đầu tư vào cái gì đó + noun ",
     "type": "phrase",
-    "en": "Invest in quality wardrobe",
+    "en": "Invest in",
     "ipa": "/ɪnˈvest ɪn ˈkwɒləti ˈwɔːrdrəʊb/",
     "example": "People can invest in a quality wardrobe to enhance their appearance and confidence. (Mọi người có thể đầu tư vào tủ quần áo chất lượng để nâng cao vẻ ngoài và sự tự tin.)"
   },
   {
-    "vn": "Tìm hiểu về lịch sử thời trang",
+    "vn": "Tìm hiểu về điều gì đó + noun",
     "type": "phrase",
-    "en": "Learn about fashion history",
+    "en": "Learn about",
     "ipa": "/lɜːrn əˈbaʊt ˈfæʃən ˈhɪstri/",
     "example": "People can learn about fashion history to appreciate the evolution of styles. (Mọi người có thể tìm hiểu về lịch sử thời trang để đánh giá cao sự phát triển của các phong cách.)"
   },
@@ -698,20 +628,6 @@
     "en": "Combat climate change",
     "ipa": "/ˈkɒmbæt ˈklaɪmɪt tʃeɪndʒ/",
     "example": "People can combat climate change by reducing their carbon footprint. (Mọi người có thể chống lại biến đổi khí hậu bằng cách giảm dấu chân carbon của họ.)"
-  },
-  {
-    "vn": "Giải quyết bất bình đẳng thu nhập",
-    "type": "phrase",
-    "en": "Address income inequality",
-    "ipa": "/əˈdres ˈɪnkʌm ˌɪnɪˈkwɒləti/",
-    "example": "People can address income inequality by supporting fair wage policies. (Mọi người có thể giải quyết bất bình đẳng thu nhập bằng cách ủng hộ chính sách tiền lương công bằng.)"
-  },
-  {
-    "vn": "Chống lại phân biệt chủng tộc",
-    "type": "phrase",
-    "en": "Fight against racial discrimination",
-    "ipa": "/faɪt əˈɡenst ˈreɪʃəl dɪˌskrɪmɪˈneɪʃn/",
-    "example": "People can fight against racial discrimination by promoting diversity and inclusion. (Mọi người có thể chống lại phân biệt chủng tộc bằng cách thúc đẩy đa dạng và hòa nhập.)"
   },
   {
     "vn": "Cải thiện an ninh lương thực",
@@ -728,9 +644,9 @@
     "example": "People can support gender equality by advocating for equal opportunities in all sectors. (Mọi người có thể hỗ trợ bình đẳng giới bằng cách ủng hộ cơ hội bình đẳng trong tất cả các ngành.)"
   },
   {
-    "vn": "Đấu tranh cho quyền của người tị nạn",
+    "vn": "Đấu tranh cho điều gì đó.....",
     "type": "phrase",
-    "en": "Advocate for refugee rights",
+    "en": "Advocate for......",
     "ipa": "/ˈædvəkeɪt fɔːr ˌrefjuːˈdʒi raɪts/",
     "example": "People can advocate for refugee rights by promoting laws that protect asylum seekers. (Mọi người có thể đấu tranh cho quyền của người tị nạn bằng cách thúc đẩy các luật bảo vệ người xin tị nạn.)"
   },
@@ -800,7 +716,7 @@
   {
     "vn": "Khuyến khích khởi nghiệp",
     "type": "phrase",
-    "en": "Encourage entrepreneurship",
+    "en": "Encourage start-up",
     "ipa": "/ɪnˈkʌrɪdʒ ˌɒntrəprəˈnɜːrʃɪp/",
     "example": "People can encourage entrepreneurship by creating a favorable business environment. (Mọi người có thể khuyến khích khởi nghiệp bằng cách tạo một môi trường kinh doanh thuận lợi.)"
   },
@@ -845,13 +761,6 @@
     "en": "Participate in study groups",
     "ipa": "/pɑːrˈtɪsɪpeɪt ɪn ˈstʌdi ɡruːps/",
     "example": "People can participate in study groups to enhance learning and meet peers. (Mọi người có thể tham gia nhóm học tập để nâng cao kiến thức và gặp gỡ bạn bè.)"
-  },
-  {
-    "vn": "Tham gia thể thao nội bộ",
-    "type": "phrase",
-    "en": "Engage in intramural sports",
-    "ipa": "/ɪnˈɡeɪdʒ ɪn ˌɪntrəˈmjʊərəl spɔːrts/",
-    "example": "People can engage in intramural sports to stay active and build team spirit. (Mọi người có thể tham gia thể thao nội bộ để giữ gìn sức khỏe và xây dựng tinh thần đồng đội.)"
   },
   {
     "vn": "Tình nguyện cho các sự kiện trường đại học",
@@ -952,25 +861,11 @@
     "example": "People can engage in health and fitness clubs to find motivation and community support for maintaining health. (Mọi người có thể tham gia câu lạc bộ sức khỏe và thể hình để tìm kiếm động lực và sự hỗ trợ của cộng đồng để duy trì sức khỏe.)"
   },
   {
-    "vn": "Thực hành vệ sinh giấc ngủ",
-    "type": "phrase",
-    "en": "Practice sleep hygiene",
-    "ipa": "/ˈpræktɪs sliːp ˈhaɪdʒiːn/",
-    "example": "People can practice sleep hygiene to enhance sleep quality and academic performance. (Mọi người có thể thực hành vệ sinh giấc ngủ để nâng cao chất lượng giấc ngủ và hiệu suất học tập.)"
-  },
-  {
     "vn": "Đấu tranh cho quyền sức khỏe sinh viên",
     "type": "phrase",
     "en": "Advocate for student health rights",
     "ipa": "/ˈædvəkeɪt fɔːr ˈstjuːdnt helθ raɪts/",
     "example": "People can advocate for student health rights to ensure access to necessary medical services on campus. (Mọi người có thể đấu tranh cho quyền sức khỏe sinh viên để đảm bảo truy cập các dịch vụ y tế cần thiết trên khuôn viên trường.)"
-  },
-  {
-    "vn": "Tìm hiểu về các tùy chọn bảo hiểm sức khỏe",
-    "type": "phrase",
-    "en": "Learn about health insurance options",
-    "ipa": "/lɜːrn əˈbaʊt helθ ɪnˈʃʊərəns ˈɒpʃnz/",
-    "example": "People can learn about health insurance options to make informed decisions about their coverage. (Mọi người có thể tìm hiểu về các tùy chọn bảo hiểm sức khỏe để đưa ra quyết định sáng suốt về bảo hiểm của mình.)"
   },
   {
     "vn": "Khuyến khích sự tham gia",
@@ -1050,7 +945,7 @@
     "example": "Campaigns help increase awareness about environmental protection. (Các chiến dịch giúp nâng cao nhận thức về bảo vệ môi trường)"
   },
   {
-    "vn": "Dành thời gian vào",
+    "vn": "đầu tư thời gian vào",
     "type": "verb phrase",
     "en": "Invest time in",
     "ipa": "[ɪnˈvest taɪm ɪn]",
@@ -1111,27 +1006,6 @@
     "en": "Boost productivity",
     "ipa": "[buːst prəʊdəkˈtɪvɪti]",
     "example": "Flexible working hours can boost productivity [Giờ làm việc linh hoạt có thể tăng năng suất]"
-  },
-  {
-    "vn": "Mở rộng tầm nhìn",
-    "type": "verb phrase",
-    "en": "Broaden horizons",
-    "ipa": "[ˈbrɔːdn həˈraɪznz]",
-    "example": "Traveling abroad helps students broaden their horizons [Du lịch nước ngoài giúp sinh viên mở rộng tầm nhìn]"
-  },
-  {
-    "vn": "Chịu trách nhiệm",
-    "type": "verb phrase",
-    "en": "Carry responsibility",
-    "ipa": "[ˈkæri rɪˌspɒnsəˈbɪlɪti]",
-    "example": "Teachers carry a great responsibility in educating students [Giáo viên mang một trách nhiệm lớn trong việc giáo dục học sinh]"
-  },
-  {
-    "vn": "Đối phó với căng thẳng",
-    "type": "verb phrase",
-    "en": "Cope with stress",
-    "ipa": "[kəʊp wɪð stres]",
-    "example": "Regular exercise helps people cope with stress [Tập thể dục thường xuyên giúp mọi người đối phó với căng thẳng]"
   },
   {
     "vn": "Tạo ra cơ hội",
@@ -1246,13 +1120,6 @@
     "example": "Employees should take initiative to solve problems. [Nhân viên nên chủ động giải quyết vấn đề.]"
   },
   {
-    "vn": "Giải quyết vấn đề",
-    "type": "verb phrase",
-    "en": "Tackle a problem",
-    "ipa": "[ˈtækəl ə ˈprɒbləm]",
-    "example": "Scientists are tackling the problem of global warming. (Các nhà khoa học đang giải quyết vấn đề nóng lên toàn cầu.)"
-  },
-  {
     "vn": "Suy nghĩ phản biện",
     "type": "verb phrase",
     "en": "Think critically",
@@ -1288,32 +1155,11 @@
     "example": "Successful students develop self-discipline in their studies. (Những học sinh thành công thường phát triển tính kỷ luật trong học tập.)"
   },
   {
-    "vn": "Mở rộng góc nhìn",
-    "type": "verb phrase",
-    "en": "Broaden perspectives",
-    "ipa": "[ˈbrɔːdn pərˈspektɪvz]",
-    "example": "Reading books can broaden perspectives on different cultures. (Đọc sách có thể mở rộng góc nhìn về các nền văn hóa khác nhau.)"
-  },
-  {
-    "vn": "Đưa ra quyết định sáng suốt",
-    "type": "verb phrase",
-    "en": "Make informed decisions",
-    "ipa": "[meɪk ɪnˈfɔːrmd dɪˈsɪʒənz]",
-    "example": "People should make informed decisions based on facts. (Mọi người nên đưa ra quyết định sáng suốt dựa trên sự thật.)"
-  },
-  {
     "vn": "Cải thiện khả năng thích nghi",
     "type": "verb phrase",
     "en": "Improve adaptability",
     "ipa": "[ɪmˈpruːv əˌdæptəˈbɪləti]",
     "example": "Employees must improve adaptability to succeed in a changing work environment. (Nhân viên phải cải thiện khả năng thích nghi để thành công trong môi trường làm việc thay đổi.)"
-  },
-  {
-    "vn": "Hỗ trợ giao tiếp",
-    "type": "verb phrase",
-    "en": "Facilitate communication",
-    "ipa": "[fəˈsɪlɪteɪt kəˌmjuːnɪˈkeɪʃən]",
-    "example": "Technology helps facilitate communication between people in different countries. (Công nghệ giúp hỗ trợ giao tiếp giữa những người ở các quốc gia khác nhau.)"
   },
   {
     "vn": "Vượt qua khó khăn",
